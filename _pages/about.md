@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral associate in the Leitner Program on Political Economy at Yale University. I've completed my PhD program in Political Science and MSc in Statistics at University of California, Los Angeles. My research applies a mixture of machine learning, causal inference, and large-scale data to the study of communication technology’s effects on society and political behavior. 
+I am a postdoctoral associate in the Leitner Program on Political Economy at Yale University. I received my PhD in Political Science and MSc in Statistics from University of California, Los Angeles. My research applies a mixture of machine learning, causal inference, and large-scale data to the study of communication technology’s effects on society and political behavior. 
 
 My dissertation explores the information tools employed by modern non-democratic leaders to maintain political control and their citizens’ probable responses to the strategies these tools make possible. My focus is primarily on non-democratic government hiring of agents to impersonate ordinary citizens and engage online and offline with members of the political opposition. 
 
