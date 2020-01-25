@@ -23,7 +23,7 @@ redirect_from:
 
 ## Media, propaganda, and collective action
 
-[**“ How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#jmp) *[Job market paper; available upon request]*
+[**“How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#jmp) *[Job market paper; available upon request]*
 
 In this paper, I explore the behavior and impact of several hundred “trolls” — paid supporters of Vladimir Putin's regime in Russia who were allegedly employed in late 2014 and early 2015 to leave pro-government comments on the popular social media platform *LiveJournal*. First, I devise a classification method of the possible objectives that would motivate governments to employ Internet trolls, the strategies trolls use to achieve these objectives, and these strategies' observable implications. Second, combining text analysis with modern approaches in causal inference, I develop a method to measure the natural evolution of online discussions so as to estimate the causal effect of troll interventions. Using a modified regression discontinuity approach and a set of partially testable assumptions about the timing of such interventions, I discover that Russian troll activity was more successful in diverting online discussions away from politically charged topics than in promoting a pro-government agenda. Moreover, while trolls succeeded in diverting discussions away from purely political topics, their interference apparently had no effect when the topic under discussion was the national economy. Those social media users who were discussing poor economic growth, unemployment, or price inflation seemed not to be responsive to troll interventions. 
 
