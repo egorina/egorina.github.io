@@ -9,7 +9,7 @@ redirect_from:
 
 ## REVIEW & RESUBMIT
 
-[**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](#under-review) (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld) *[Paper available upon request](mailto:asobolev[at]ucla.edu)*
+[**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](#under-review) (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld) *[Paper available upon request](#request)*
 
 ## ARTICLES
 
