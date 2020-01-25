@@ -61,7 +61,7 @@ My analysis results in three important findings.
 
 <center>
 
-<img src="https://AntonSobolev.github.io/files/figs/dissertation-PCA.png" width="600">
+<img src="https://AntonSobolev.github.io/files/figs/dissertation-PCA.png" width="800">
 <figcaption><i>All users are different, all trolls are alike</i></figcaption>
  </center>
 
