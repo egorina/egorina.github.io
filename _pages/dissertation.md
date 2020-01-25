@@ -32,11 +32,9 @@ Specifically, my dissertation documents the behavior of several hundred Internet
 
 ## Findings
 
-<div class="col2">
-
-
 My analysis results in three important findings.
 
+<div class="col2">
 * *First*, when intervening in online discussions, paid commentators do not showcase themselves as supporters of the regime.  Instead, they successfully hide their troll identity by pretending to be politically moderate citizens or even government skeptics.  Employing the list of troll accounts leaked by journalists and a random sample of user accounts on LiveJournal, I trained a set of classification models (e.g., random forests and deep neural networks) to calculate the propensity of a social media account to belong to a troll.  I show that, while Internet trolls are good at hiding their troll identity from other users, modern statistical tools are able to identify them with a high level of accuracy.  While trolls try to mask themselves as regular users, some of their behavioral patterns differ sharply from those of ordinary-citizen users.  The methods I employed allow me to distinguish trolls from ordinary users with 96 percent precision.
 
 <p style="page-break-after: always;">&nbsp;</p>
