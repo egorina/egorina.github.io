@@ -32,6 +32,7 @@ In particular, I study the way governments hire agents to impersonate ordinary c
 <center>
 
 <img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" height="800">
+<figcaption><i>Activity on social media</i></figcaption>
 
  </center>
 
@@ -68,6 +69,7 @@ My analysis results in three important findings.
 
 </div>
 
+<p style="page-break-after: always;">&nbsp;</p>
 
 **Third**, combining text analysis (including dynamic topic modeling) with existing approaches in causal inference (e.g., regression discontinuity design), I show that Russian troll activity was successful in diverting online discussions away from politically charged topics. They consistently managed to divert online discussions away from the initial topic by raising issues that could serve to expose ideological divides among different groups within the political opposition.  Moreover, while trolls succeeded in diverting discussions away from purely political topics, their interference apparently had no effect when the topic under discussion was the national economy.
 
