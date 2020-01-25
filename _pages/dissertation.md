@@ -26,7 +26,24 @@ My dissertation -- *Dictators in the Spotlight: What Do They Do When They Cannot
   
 In particular, I study the way governments hire agents to impersonate ordinary citizens and engage online with members of the political opposition. Such “Internet trolls” post pro-regime messages or intimidate ordinary users. I investigate the impact of such interventions on the behavior of social media users in Vladimir Putin’s Russia. This work contributes to debates on misinformation in social media channels, the regulation of digital platforms, and the domestic and foreign policy of non-democratic regimes. 
 
+<div class="col2">
+
+
+<center>
+
+<img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" height="1000">
+
+ </center>
+
+<p style="page-break-after: always;">&nbsp;</p>
+<p style="page-break-before: always;">&nbsp;</p>
+
 Specifically, my dissertation documents the behavior of several hundred Internet trolls who published blog posts and participated in discussions on the popular Russian social media platform LiveJournal in 2014–2015.  My focus is the effects of troll interventions on politically charged online discussions, and I argue that, when attacking political activists, these trolls pursue other goals and exploit other mechanisms than they do when targeting regular Internet users.
+
+</div>
+
+
+
 
 
 
@@ -48,7 +65,7 @@ My analysis results in three important findings.
 <p style="page-break-before: always;">&nbsp;</p>
 <center>
 
-<img src="https://AntonSobolev.github.io/files/dissertation-PCA.png" height="1000">
+<img src="https://AntonSobolev.github.io/files/figs/dissertation-PCA.png" height="1000">
 <figcaption><i>All users are different, all trolls are alike</i></figcaption>
  </center>
 
