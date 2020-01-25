@@ -21,13 +21,13 @@ redirect_from:
   }
 </style>
 
-## Media, social media, and politics 
+## Media, propaganda, and collective action
 
-[**“How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#works) *[Paper available upon request]*
+[**“Job Market Paper: How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#jmp) *[Paper available upon request]*
 
 In this paper, I explore the behavior and impact of several hundred “trolls” — paid supporters of Vladimir Putin's regime in Russia who were allegedly employed in late 2014 and early 2015 to leave pro-government comments on the popular social media platform *LiveJournal*. First, I devise a classification method of the possible objectives that would motivate governments to employ Internet trolls, the strategies trolls use to achieve these objectives, and these strategies' observable implications. Second, combining text analysis with modern approaches in causal inference, I develop a method to measure the natural evolution of online discussions so as to estimate the causal effect of troll interventions. Using a modified regression discontinuity approach and a set of partially testable assumptions about the timing of such interventions, I discover that Russian troll activity was more successful in diverting online discussions away from politically charged topics than in promoting a pro-government agenda. Moreover, while trolls succeeded in diverting discussions away from purely political topics, their interference apparently had no effect when the topic under discussion was the national economy. Those social media users who were discussing poor economic growth, unemployment, or price inflation seemed not to be responsive to troll interventions. 
 
-[**“News and Social Media Accurately Measure Protest Size”**](http://www.asobolev.com/files/papers/Measuring-Protest-Size.pdf) (with Zachary C. Steinert-Threlkeld1, Keith Chen, and Jungseock Joo) [*Link*](http://www.asobolev.com/files/papers/Measuring-Protest-Size.pdf)
+[**“News and Social Media Accurately Measure Protest Size”**](#inprogress) *[Paper available upon request]* (with Zachary C. Steinert-Threlkeld1, Keith Chen, and Jungseock Joo)
 
 This research note shows that news and social media data generate accurate esti- mates of the size of protests. Using cell phone location data on ten million individuals, this note measures the size of the 2017 United States Women’s March protests. This gold standard measure correlates strongly with estimates provided in news media as well as three size estimates generated using geolocated tweets, one text-based and two based on images. In testing these estimates, we also show that wealthier, more Democratic, and more urbanized areas generated larger protests. Because protest size is a key determinant of social movement success, knowing that news and social media accu- rately measure it means estimates using them can be trusted. In addition, researchers and funders should consider devoting more resources to the measurement undertaking.
 
@@ -39,7 +39,7 @@ There is a wide-spread belief that non-democratic governments are better off lim
 
 Following the wave of color revolutions in the postcommunist states, the Putin regime notoriously orchestrated progovernment rallies to intimidate opposition forces and demonstrate the regime’s capacity to mobilize support. While these efforts were effective in the face of limited opposition protest, they did not deter the broader electoral challenges to United Russia (UR) in December 2011 and subsequent antiregime protests throughout the winter. Scenes of competing street actions became a battleground in which the pro- and anti-Putin activists contested the political narratives that defined both the president and his supporters. Our analysis highlights the state’s use of symbolic politics—the presentation of a distinct view of politics based on communication rooted in national symbols — as a tool to build support in electoral authoritarian regimes. We develop an analytic narrative that tracks the changes in the use of political symbols in Kremlin rallies between December 2011 and March 2012. We use original survey data of rally participants in Moscow to gauge the degree to which participants’ opinions reflected the messages broadcast in the rallies. 
 
-## How ICT technology changes the architecture and dynamics of social movements
+##  Social movements and communication technology
 
 [**“Stability of Revolutionary Governments In The Face Of Mass Protest”**](#works) (with Dmitry Dagaev and Natalia Lamberova)
 
