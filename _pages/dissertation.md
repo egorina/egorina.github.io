@@ -31,7 +31,7 @@ In particular, I study the way governments hire agents to impersonate ordinary c
 
 <center>
 
-<img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" height="1000">
+<img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" height="800">
 
  </center>
 
@@ -51,14 +51,11 @@ Specifically, my dissertation documents the behavior of several hundred Internet
 
 My analysis results in three important findings.
 
-* *First*, when intervening in online discussions, paid commentators do not showcase themselves as supporters of the regime.  Instead, they successfully hide their troll identity by pretending to be politically moderate citizens or even government skeptics.  Employing the list of troll accounts leaked by journalists and a random sample of user accounts on LiveJournal, I trained a set of classification models (e.g., random forests and deep neural networks) to calculate the propensity of a social media account to belong to a troll.  I show that, while Internet trolls are good at hiding their troll identity from other users, modern statistical tools are able to identify them with a high level of accuracy.  While trolls try to mask themselves as regular users, some of their behavioral patterns differ sharply from those of ordinary-citizen users.  The methods I employed allow me to distinguish trolls from ordinary users with 96 percent precision.
+**First**, when intervening in online discussions, paid commentators do not showcase themselves as supporters of the regime.  Instead, they successfully hide their troll identity by pretending to be politically moderate citizens or even government skeptics.  Employing the list of troll accounts leaked by journalists and a random sample of user accounts on LiveJournal, I trained a set of classification models (e.g., random forests and deep neural networks) to calculate the propensity of a social media account to belong to a troll.  I show that, while Internet trolls are good at hiding their troll identity from other users, modern statistical tools are able to identify them with a high level of accuracy.  While trolls try to mask themselves as regular users, some of their behavioral patterns differ sharply from those of ordinary-citizen users.  The methods I employed allow me to distinguish trolls from ordinary users with 96 percent precision.
 
 <div class="col2">
 
-<ul>
-  <li> <i>Second</i>, paid Internet trolls do not bombard users with inflammatory messages but instead actively engage in political debates.  Though it would be reasonable to expect the opposite, these commentators almost never leave messages of a larger size or a higher intensity than other users.  Instead, they consistently follow the discussion and actively seek substantive responses from regular participants in these online conversations./li>
-
-</ul>
+<li> <b>Second</b>, paid Internet trolls do not bombard users with inflammatory messages but instead actively engage in political debates.  Though it would be reasonable to expect the opposite, these commentators almost never leave messages of a larger size or a higher intensity than other users.  Instead, they consistently follow the discussion and actively seek substantive responses from regular participants in these online conversations./li>
 
 
 <p style="page-break-after: always;">&nbsp;</p>
@@ -72,7 +69,7 @@ My analysis results in three important findings.
 </div>
 
 
-* *Third*, combining text analysis (including dynamic topic modeling) with existing approaches in causal inference (e.g., regression discontinuity design), I show that Russian troll activity was successful in diverting online discussions away from politically charged topics. They consistently managed to divert online discussions away from the initial topic by raising issues that could serve to expose ideological divides among different groups within the political opposition.  Moreover, while trolls succeeded in diverting discussions away from purely political topics, their interference apparently had no effect when the topic under discussion was the national economy.
+**Third**, combining text analysis (including dynamic topic modeling) with existing approaches in causal inference (e.g., regression discontinuity design), I show that Russian troll activity was successful in diverting online discussions away from politically charged topics. They consistently managed to divert online discussions away from the initial topic by raising issues that could serve to expose ideological divides among different groups within the political opposition.  Moreover, while trolls succeeded in diverting discussions away from purely political topics, their interference apparently had no effect when the topic under discussion was the national economy.
 
 ## Contributions and Policy-implications
 
