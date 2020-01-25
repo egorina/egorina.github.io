@@ -38,8 +38,11 @@ My analysis results in three important findings.
 
 <div class="col2">
 
+<ul>
+  <li> <i>Second</i>, paid Internet trolls do not bombard users with inflammatory messages but instead actively engage in political debates.  Though it would be reasonable to expect the opposite, these commentators almost never leave messages of a larger size or a higher intensity than other users.  Instead, they consistently follow the discussion and actively seek substantive responses from regular participants in these online conversations./li>
 
-* _Second_, paid Internet trolls do not bombard users with inflammatory messages but instead actively engage in political debates.  Though it would be reasonable to expect the opposite, these commentators almost never leave messages of a larger size or a higher intensity than other users.  Instead, they consistently follow the discussion and actively seek substantive responses from regular participants in these online conversations.
+</ul>
+
 
 <p style="page-break-after: always;">&nbsp;</p>
 <p style="page-break-before: always;">&nbsp;</p>
