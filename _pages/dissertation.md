@@ -55,7 +55,7 @@ My analysis results in three important findings.
 
 <div class="col2">
 
-<li> <b>Second</b>, paid Internet trolls do not bombard users with inflammatory messages but instead actively engage in political debates.  Though it would be reasonable to expect the opposite, these commentators almost never leave messages of a larger size or a higher intensity than other users.  Instead, they consistently follow the discussion and actively seek substantive responses from regular participants in these online conversations.</li>
+<b>Second</b>, paid Internet trolls do not bombard users with inflammatory messages but instead actively engage in political debates.  Though it would be reasonable to expect the opposite, these commentators almost never leave messages of a larger size or a higher intensity than other users.  Instead, they consistently follow the discussion and actively seek substantive responses from regular participants in these online conversations.
 
 
 <p style="page-break-after: always;">&nbsp;</p>
@@ -67,12 +67,6 @@ My analysis results in three important findings.
  </center>
 
 </div>
-
-<p style="page-break-after: always;">&nbsp;</p>
-
-&nbsp;
-
-## 
 
 **Third**, combining text analysis (including dynamic topic modeling) with existing approaches in causal inference (e.g., regression discontinuity design), I show that Russian troll activity was successful in diverting online discussions away from politically charged topics. They consistently managed to divert online discussions away from the initial topic by raising issues that could serve to expose ideological divides among different groups within the political opposition.  Moreover, while trolls succeeded in diverting discussions away from purely political topics, their interference apparently had no effect when the topic under discussion was the national economy.
 
