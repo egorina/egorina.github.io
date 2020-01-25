@@ -39,11 +39,6 @@ In particular, I study the way governments hire agents to impersonate ordinary c
 <p style="page-break-before: always;">&nbsp;</p>
 
 Specifically, my dissertation documents the behavior of several hundred Internet trolls who published blog posts and participated in discussions on the popular Russian social media platform LiveJournal in 2014–2015.  My focus is the effects of troll interventions on politically charged online discussions, and I argue that, when attacking political activists, these trolls pursue other goals and exploit other mechanisms than they do when targeting regular Internet users.
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
 </div>
 
 ## Findings
