@@ -20,24 +20,14 @@ redirect_from:
   }
 </style>
 
-## Summary
 
 My dissertation -- *Dictators in the Spotlight: What Do They Do When They Cannot Do Business as Usual?* -- examines the information tools employed by modern non-democratic leaders to maintain political control and their citizens’ probable responses to the strategies these tools make possible.
   
 In particular, I study the way governments hire agents to impersonate ordinary citizens and engage online with members of the political opposition. Such “Internet trolls” post pro-regime messages or intimidate ordinary users. I investigate the impact of such interventions on the behavior of social media users in Vladimir Putin’s Russia. This work contributes to debates on misinformation in social media channels, the regulation of digital platforms, and the domestic and foreign policy of non-democratic regimes. 
 
-Specifically, my dissertation documents the behavior of several hundred Internet trolls who published blog posts and participated in discussions on the popular Russian social media platform LiveJournal in 2014–2015.  My focus is the effects of troll interventions on politically charged online discussions, and I argue that, when attacking political activists, these trolls pursue other goals and exploit other mechanisms than they do when targeting regular Internet users.
-
-
-
-## Findings
-
 <div class="col2">
 
-
-My analysis results in three important findings.
-
-* *First*, when intervening in online discussions, paid commentators do not showcase themselves as supporters of the regime.  Instead, they successfully hide their troll identity by pretending to be politically moderate citizens or even government skeptics.  Employing the list of troll accounts leaked by journalists and a random sample of user accounts on LiveJournal, I trained a set of classification models (e.g., random forests and deep neural networks) to calculate the propensity of a social media account to belong to a troll.  I show that, while Internet trolls are good at hiding their troll identity from other users, modern statistical tools are able to identify them with a high level of accuracy.  While trolls try to mask themselves as regular users, some of their behavioral patterns differ sharply from those of ordinary-citizen users.  The methods I employed allow me to distinguish trolls from ordinary users with 96 percent precision.
+Specifically, my dissertation documents the behavior of several hundred Internet trolls who published blog posts and participated in discussions on the popular Russian social media platform LiveJournal in 2014–2015.  My focus is the effects of troll interventions on politically charged online discussions, and I argue that, when attacking political activists, these trolls pursue other goals and exploit other mechanisms than they do when targeting regular Internet users.
 
 <p style="page-break-after: always;">&nbsp;</p>
 <p style="page-break-before: always;">&nbsp;</p>
@@ -49,6 +39,11 @@ My analysis results in three important findings.
 
 </div>
 
+## Findings
+
+My analysis results in three important findings.
+
+* *First*, when intervening in online discussions, paid commentators do not showcase themselves as supporters of the regime.  Instead, they successfully hide their troll identity by pretending to be politically moderate citizens or even government skeptics.  Employing the list of troll accounts leaked by journalists and a random sample of user accounts on LiveJournal, I trained a set of classification models (e.g., random forests and deep neural networks) to calculate the propensity of a social media account to belong to a troll.  I show that, while Internet trolls are good at hiding their troll identity from other users, modern statistical tools are able to identify them with a high level of accuracy.  While trolls try to mask themselves as regular users, some of their behavioral patterns differ sharply from those of ordinary-citizen users.  The methods I employed allow me to distinguish trolls from ordinary users with 96 percent precision.
 
 * *Second*, paid Internet trolls do not bombard users with inflammatory messages but instead actively engage in political debates.  Though it would be reasonable to expect the opposite, these commentators almost never leave messages of a larger size or a higher intensity than other users.  Instead, they consistently follow the discussion and actively seek substantive responses from regular participants in these online conversations.
 
