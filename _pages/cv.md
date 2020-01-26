@@ -16,7 +16,7 @@ You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/
 
 <div>
 
-<iframe src="/files/Anton-Sobolev-CV.pdf" width="100%" height="700px"></iframe>
+<iframe src="/files/Anton-Sobolev-CV.pdf" width="125%" height="700px"></iframe>
 </div>
 
 </html>
