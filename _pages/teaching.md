@@ -22,7 +22,7 @@ Students get free access to short courses on DataCamp to prepare themselves for 
 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
-  * Technology Analytics (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
+  * Technology Analytics (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/) (2018)
 
   * Competitive Analytics (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
 
@@ -43,15 +43,3 @@ Students get free access to short courses on DataCamp to prepare themselves for 
   * Models of Risk in Politics and Economics (MA), Lecturer, with Prof. [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin) and Prof. [Irina Khovanskaya](https://www.coursera.org/instructor/i.khovanskaya?siteID=hL3Qp0zRBOc-0088HPnpyM7omnvkrnwERg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=hL3Qp0zRBOc) 
 
   * Political Theory, Lecturer
-
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
