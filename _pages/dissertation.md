@@ -62,7 +62,7 @@ My analysis results in three important findings.
 
 <center>
 
-<img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" width="500">
+<img src="https://AntonSobolev.github.io/files/figs/dissertation-PCA.png" width="500">
 <figcaption><i>All users are different, all trolls are alike</i></figcaption>
 </center>
 
@@ -80,7 +80,3 @@ My analysis results in three important findings.
 
 - *Third*, it adds to the literature on the problem of information control.  As previous studies have shown, paid commentators primarily target regular users and create informational noise so as to complicate these users’ access to news that is potentially dangerous to the regime. In contrast, I find that paid Internet trolls can also be used to target political activists employing very different tactics, masking their troll identity, and infiltrating conversations on social media with messages that induce ideological divergence.
 
-
-<!---
-<img src="https://AntonSobolev.github.io/files/figs/dissertation-PCA.png" width="50">
-->
