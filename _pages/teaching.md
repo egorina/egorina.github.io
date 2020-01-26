@@ -24,22 +24,20 @@ Students get free access to short courses on DataCamp to prepare themselves for 
 
   * Technology Analytics (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/) (2018)
 
-  * Competitive Analytics (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
+  * Competitive Analytics (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/) (2018)
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
-  * Politics and Government of Post-Communist Russia, with Prof. [Daniel Treisman](https://www.danieltreisman.org/)
+  * Politics and Government of Post-Communist Russia, with Prof. [Daniel Treisman](https://www.danieltreisman.org/) (2014-17)
 
-  * Diversity, Disagreement, and Democracy, with Prof. [Susanne Lohmann](https://luskin.ucla.edu/person/susanne-lohmann/)
+  * Diversity, Disagreement, and Democracy, with Prof. [Susanne Lohmann](https://luskin.ucla.edu/person/susanne-lohmann/) (2016)
 
-  * Data Analysis, with Prof. [Erin Hartman](http://www.erinhartman.com/)
+  * Data Analysis, with Prof. [Erin Hartman](http://www.erinhartman.com/) (2018)
 
-  * Politics and Strategy, with Prof. [Michael Chwe](http://chwe.net/michael/)
-
-  * World Politics, with Prof. [David Wilkinson](https://polisci.ucla.edu/people/david-wilkinson)
+  * Politics and Strategy, with Prof. [Michael Chwe](http://chwe.net/michael/) (2017)
 
 **Higher School of Economics, Moscow**,  ***Department of Political Science***
 
-  * Models of Risk in Politics and Economics (MA), Lecturer, with Prof. [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin) and Prof. [Irina Khovanskaya](https://www.coursera.org/instructor/i.khovanskaya?siteID=hL3Qp0zRBOc-0088HPnpyM7omnvkrnwERg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=hL3Qp0zRBOc) 
+  * Models of Risk in Politics and Economics (MA, 2012-13)
 
-  * Political Theory, Lecturer
+  * Political Theory, Lecturer (2011-13)
