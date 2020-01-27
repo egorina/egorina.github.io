@@ -31,7 +31,7 @@ Specifically, my dissertation documents the behavior of several hundred Internet
 
 <center>
 
-<img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" width="400">
+<img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" width="300">
 <figcaption><i>Activity on social media</i></figcaption>
 
  </center>
