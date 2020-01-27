@@ -31,7 +31,7 @@ Specifically, my dissertation documents the behavior of several hundred Internet
 
 <center>
 
-<img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" width="700">
+<img src="https://AntonSobolev.github.io/files/figs/1-Posts-Time-Overlap-Trolls-VS-Random.png" width="400">
 <figcaption><i>Activity on social media</i></figcaption>
 
  </center>
@@ -48,7 +48,7 @@ My analysis results in three important findings.
 
 <center>
 
-<img src="https://AntonSobolev.github.io/files/figs/dissertation-PCA.png" width="700">
+<img src="https://AntonSobolev.github.io/files/figs/dissertation-PCA.png" width="400">
 <figcaption><i>All users are different, all trolls are alike</i></figcaption>
 </center>
 
