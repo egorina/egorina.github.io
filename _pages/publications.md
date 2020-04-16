@@ -7,11 +7,9 @@ redirect_from:
   - /publications
 ---
 
-## REVIEW & RESUBMIT
-
-[**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](#under-review) (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld) *[Paper available upon request](#request)*
-
 ## ARTICLES
+
+[**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**] in *American Political Science Review* forthcoming (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld) *[Paper available upon request](#request)*
 
 [**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20 (with Dmitry Dagaev and Natalia Lamberova)
 
