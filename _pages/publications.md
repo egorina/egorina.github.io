@@ -47,11 +47,11 @@ redirect_from:
 * [_Book on Amazon_](https://www.amazon.com/Systemic-Non-Systemic-Opposition-Russian-Federation-ebook/dp/B01CIKO3M0/ref=sr_1_1?ie=UTF8&qid=1525569981&sr=8-1&keywords=The+Systemic+and+Non-Systemic+Opposition+in+the+Russian+Federation) ✓ [_Book on Oakleaf Books_](http://www.oakleafbooks.se/index.php?route=product/product&manufacturer_id=Ross,%20Cameron&product_id=19129309)  ✓  [_Working paper_](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf)
 
 
-## WORKING
+## RESEARCH IN PROGRESS
 
 [**"How Pro-Government “Trolls” Influence Political Conversations in Russia"**](#published-works) *[Paper available upon request]*
 
-[**"Can Independent Media Help Autocrats Suppress Collective Action?"**](#published-works) *[Paper available upon request]*
+[**"Independent Media Can Amplify The Effect of Pro-government Rallies in Suppressing Protest"**](#published-works) *[Paper available upon request]*
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
