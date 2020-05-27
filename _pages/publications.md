@@ -51,7 +51,7 @@ redirect_from:
 
 [**"How Pro-Government “Trolls” Influence Political Conversations in Russia"**](#published-works) *[Paper available upon request]*
 
-[**"Independent Media Can Amplify The Effect of Pro-government Rallies in Suppressing Protest"**](#published-works) *[Paper available upon request]*
+[**"Independent Media, Pro-government Rallies, and Protest in Authoritarian Regimes"**](#published-works) *[Paper available upon request]*
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
