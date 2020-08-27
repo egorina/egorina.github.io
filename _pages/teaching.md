@@ -9,7 +9,7 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
-**Yale University**, ***Department of Political Science*** (Spring 2020)
+**Yale University**, ***Department of Political Science*** (Fall 2020)
 
   * *PLSC-455* Big Data, AI, and Russian Politics [Class Website](https://yale.instructure.com/courses/60670)
 
