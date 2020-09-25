@@ -14,8 +14,6 @@ redirect_from:
 ✓  [_Working paper_](https://www.dropbox.com/s/hzfw564dkxed3di/2020_NewsSocialMediaProtestSizeVariation.pdf?dl=0)
 
 
-
-
 [**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20 (with Dmitry Dagaev and Natalia Lamberova)
 
 
@@ -56,7 +54,7 @@ redirect_from:
 
 [**"How Pro-Government “Trolls” Influence Political Conversations in Russia"**](#published-works) *[Paper available upon request]*
 
-[**"Independent Media, Pro-government Rallies, and Protest in Authoritarian Regimes"**](#published-works) *[Paper available upon request]*
+[**"How Can Free Media Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia"**](#published-works) *[Paper available upon request]*
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
