@@ -9,13 +9,9 @@ redirect_from:
 
 ## ARTICLES
 
-[**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld)
-
-✓  [_Working paper_](https://www.dropbox.com/s/hzfw564dkxed3di/2020_NewsSocialMediaProtestSizeVariation.pdf?dl=0)
-
+[**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld)
 
 [**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20 (with Dmitry Dagaev and Natalia Lamberova)
-
 
 [**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
 
