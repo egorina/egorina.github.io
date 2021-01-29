@@ -7,7 +7,6 @@ redirect_from:
   - /research
 ---
 
-
 <style>
   .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/
@@ -21,25 +20,43 @@ redirect_from:
   }
 </style>
 
-## Media, propaganda, and collective action
+# Job Market Paper
 
 [**“How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#jmp) *[Job market paper; available upon request]*
 
 In a non-democracy, the regime can censor and manipulate social media for its own goals. This paper unpacks the technology of the Russian government propaganda and manipulation of online discussions, and establishes the causal effect of government interventions on the online behavior of social media users. Using a novel database on the activity of the state-sponsored online propagandists masquerading as ordinary citizens, the so-called “trolls”, I estimate the impact of troll interventions in online conversation by combining matching techniques with the difference-in-differences approach. I find that the Russian troll activity was significantly more successful in stopping and diverting online discussions away from politically sensitive topics than in promoting a pro-government agenda. To the best of my knowledge, this is the first study that documents the causal effect of trolls' interventions on the online behavior of social media users. 
 
-[**“News and Social Media Accurately Measure Protest Size”**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld)
+# Works in Progress
 
-This research note shows that news and social media data generate accurate estimates of the size of protests. Using cell phone location data on ten million individuals, this note measures the size of the 2017 United States Women’s March protests. This gold standard measure correlates strongly with estimates provided in news media as well as three size estimates generated using geolocated tweets, one text-based and two based on images. In testing these estimates, we also show that wealthier, more Democratic, and more urbanized areas generated larger protests. Because protest size is a key determinant of social movement success, knowing that news and social media accurately measure it means estimates using them can be trusted. In addition, researchers and funders should consider devoting more resources to the measurement undertaking.
+[**“Black markets, Red square: How the Kremlin utilizes Darknet for its cyberpolicy”**](#InProgress) 
+
+Non-democratic governments actively use cyber technologies for political purposes. They deploy trolls and bots to disseminate misinformation domestically and abroad. They use digital surveillance to track opposition activists and breach foreign national networks to steal classified information. They can also organize attacks against critical infrastructure. However, these governments did not invent digital weaponry from the scratch. Instead, they often use solutions supplied by the black digital markets. The features of these markets determine what a non-democratic government can and cannot do in cyberspace. In this paper, I provide a systematic overview of how black digital markets are organized in Russia and how the state agencies and informal groups linked to the Kremlin operate on these markets.
+
+[**“Smile! You're on camera: Protest, Digital Surveilance and Citizen Intimidation”**](#InProgress) 
+
+State capacity to utilize digital surveilence in non-democratic countries can pose additional hurdles for regime democratization. National governments can identify and target participants of mass demonstrations, and impose punishment for taking to the street. This punishment need not be official. Using a novel dataset, I study how activists of pro-government "JeSuisMaidan"  movement exploit face recognition algorithms to identify and intimidate protesters in Russia. Furthermore, I document how this intimidation affects online behavior of targeted citizens.
+
+# Working Papers
+
+
 
 [**“How Can Free Media Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia”**](#inprogress)
 
 A widespread belief holds that a free press threatens non-democratic governments since it can reveal official incompetence or misconduct and help opposition to organize. I argue that, under certain conditions, dictators can use free media to credibly communicate messages that discourage protest and thus strengthen the regime. I exploit the uneven geographical reach of broadcasts by the liberal Russian radio station Echo of Moscow to document this effect. In cities that received Echo of Moscow broadcasts, anti-Putin protesters were discouraged by the station’s credible accounts of a large pro-government demonstration in the capital, leading to lower participation in opposition rallies elsewhere. The finding helps explain the puzzle that various otherwise repressive authoritarian regimes permit some free press to operate. 
 
+# Publications 
+
+## Media, propaganda, and collective action
+
+[**“News and Social Media Accurately Measure Protest Size”**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld)
+
+This research note shows that news and social media data generate accurate estimates of the size of protests. Using cell phone location data on ten million individuals, this note measures the size of the 2017 United States Women’s March protests. This gold standard measure correlates strongly with estimates provided in news media as well as three size estimates generated using geolocated tweets, one text-based and two based on images. In testing these estimates, we also show that wealthier, more Democratic, and more urbanized areas generated larger protests. Because protest size is a key determinant of social movement success, knowing that news and social media accurately measure it means estimates using them can be trusted. In addition, researchers and funders should consider devoting more resources to the measurement undertaking.
+
 [**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](https://doi.org/10.2753/PPC1075-8216600203) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) [*Link*](https://doi.org/10.2753/PPC1075-8216600203)
 
 Following the wave of color revolutions in the postcommunist states, the Putin regime notoriously orchestrated progovernment rallies to intimidate opposition forces and demonstrate the regime’s capacity to mobilize support. While these efforts were effective in the face of limited opposition protest, they did not deter the broader electoral challenges to United Russia (UR) in December 2011 and subsequent antiregime protests throughout the winter. Scenes of competing street actions became a battleground in which the pro- and anti-Putin activists contested the political narratives that defined both the president and his supporters. Our analysis highlights the state’s use of symbolic politics—the presentation of a distinct view of politics based on communication rooted in national symbols — as a tool to build support in electoral authoritarian regimes. We develop an analytic narrative that tracks the changes in the use of political symbols in Kremlin rallies between December 2011 and March 2012. We use original survey data of rally participants in Moscow to gauge the degree to which participants’ opinions reflected the messages broadcast in the rallies. 
 
-##  Social movements and communication technology
+##  Protest mobilization and communication technology
 
 [**“Stability of Revolutionary Governments In The Face Of Mass Protest”**](#works) (with Dmitry Dagaev and Natalia Lamberova)
 

@@ -13,7 +13,7 @@ redirect_from:
 
   * *PLSC-455* Big Data, AI, and Russian Politics [Class Website](https://yale.instructure.com/courses/60670)
 
-This cross-disciplinary course focuses on two broad questions. First: how do politicians use new technologies to influence politics? Second: how do scholars use new technologies to study politics? It uses Russia as a laboratory to explore these questions. The course consists of four parts. It starts with a review of contemporary Russia and pays attention to the quantitative studies of its economy and politics. Next, the course provides a non-technical introduction to Big Data and AI algorithms. Finally, it outlines the applications of the new technologies to the study of Russian politics.
+This cross-disciplinary seminar focuses on two broad questions. First: how do politicians use new technologies to influence politics? Second: how do scholars use new technologies to study politics? It uses Russia as a laboratory to explore these questions. The course consists of four parts. It starts with a review of contemporary Russia and pays attention to the quantitative studies of its economy and politics. Next, the course provides a non-technical introduction to Big Data and AI algorithms. Finally, it outlines the applications of the new technologies to the study of Russian politics.
 
 Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for Yale students](https://www.datacamp.com/enterprise/big-data-and-political-science-fall-2020)
 
