@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral associate in the Leitner Program on Political Economy at Yale University. My research studies questions of comparative politics using text analysis, machine learning, and causal inference. My recent projects focus on mass protest, media, and political control in autocracies. More broadly, I study causes and effects of contentious political behavior. 
+I am a postdoctoral associate in the Leitner Program on Political Economy at Yale University. My research studies questions of comparative politics using text analysis, machine learning, and causal inference. My recent projects focus on mass protest, cybersecurity, and political control in autocracies. More broadly, I study how digital technology shapes contentious political behavior. 
 
 My [dissertation](dissertation/) explores the information tools employed by modern non-democratic leaders to maintain political control and their citizens’ probable responses to the strategies these tools make possible. It focuses primarily on government hiring of agents to impersonate ordinary citizens and engage online and offline with members of the political opposition. 
 
