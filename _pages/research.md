@@ -22,7 +22,7 @@ redirect_from:
 
 ## Job Market Paper
 
-[**“How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#jmp) *[Job market paper; available upon request]*
+[**“How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#jmp) *[Available upon request]*
 
 In a non-democracy, the regime can censor and manipulate social media for its own goals. This paper unpacks the technology of the Russian government propaganda and manipulation of online discussions, and establishes the causal effect of government interventions on the online behavior of social media users. Using a novel database on the activity of the state-sponsored online propagandists masquerading as ordinary citizens, the so-called “trolls”, I estimate the impact of troll interventions in online conversation by combining matching techniques with the difference-in-differences approach. I find that the Russian troll activity was significantly more successful in stopping and diverting online discussions away from politically sensitive topics than in promoting a pro-government agenda. To the best of my knowledge, this is the first study that documents the causal effect of trolls' interventions on the online behavior of social media users. 
 
