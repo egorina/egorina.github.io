@@ -1,7 +1,7 @@
 ---
 title: ''
 author: "Anton Sobolev"
-email: anton.sobolev@yale.edu
+email: anton.sobolev@utdallas.edu
 output:
   pdf_document:
     latex_engine: pdflatex
@@ -42,7 +42,7 @@ xcolor: yes
 
 # ACADEMIC POSITIONS
 
-**Postdoctoral Associate**, MacMillan Center for International and Area Studies, Yale University \hfill 2019- 
+**Postdoctoral Associate**, MacMillan Center for International and Area Studies, Yale University \hfill 2019-21 
 
 **Research Fellow**, Luskin School of Public Affairs, UCLA \hfill 2018 
 
@@ -120,13 +120,13 @@ High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
 
 # PRESENTATIONS
 
-APSA (2018, 2016, 2014), MPSA (2018, 2017, 2014), European Economic Association Annual Conference (2015), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2017, 2013), Indiana University (2012)
+APSA (2021, 2018, 2016, 2014), MPSA (2018, 2017, 2014), Annual conference of the Society for Political Methodology (2019), European Economic Association Annual Conference (2015), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2017, 2013), Indiana University (2012)
 
 # TEACHING EXPERIENCE
 
 **Yale University**, ***Department of Political Science***
 
-\hskip 1cm Big Data, AI, and Russian Politics (2020)
+\hskip 1cm Big Data, AI, and Russian Politics (2020-21)
 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
@@ -152,7 +152,7 @@ APSA (2018, 2016, 2014), MPSA (2018, 2017, 2014), European Economic Association 
 
 # SERVICE
 
-**Reviewer:** American Political Science Review, Economics and Politics, Foreign Policy Analysis, Journal of International Affairs, Problems of Post-Communism
+**Reviewer:** American Political Science Review, Economics and Politics, Foreign Policy Analysis, New Media and Society, Journal of International Affairs, Problems of Post-Communism, Post-Soviet Affairs
 
 # SKILLS
 
