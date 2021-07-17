@@ -13,11 +13,11 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=.75in
-jobtitle: Postdoctoral associate in the Leitner Program on Political Economy at Yale University
+jobtitle: Assistant Professor, School of Economic, Political and Policy Sciences
 keywords: R Markdown, academic CV, template
 linkcolor: Brown
 fontawesome: yes
-address: Department of Political Science - Yale University - 115 Prospect Street, New Haven, CT 06520
+address:  Cecil H. Green Hall | 800 West Campbell Road, GR 31 | Richardson, TX 75080-3021
 updated: no
 urlcolor: Brown
 web: www.asobolev.com
@@ -27,12 +27,13 @@ xcolor: yes
 # EDUCATION
 
 **University of California, Los Angeles**, Ph.D. in Political Science  \hfill 2019
-
+<!--
 \hskip 1cm  Topic: "*Dictators in the Spotlight*: What They Do When They Cannot Do Business as Usual"
 
 \hskip 1cm  Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
 
 \hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
+-->
 
 **University of California, Los Angeles**, M.Sc. in Statistics  \hfill 2019
 
@@ -42,6 +43,10 @@ xcolor: yes
 
 # ACADEMIC POSITIONS
 
+**Assistan Professor**, School of Economic, Political and Policy Sciences, \hfill 2021- 
+ 
+The University of Texas at Dallas 
+
 **Postdoctoral Associate**, MacMillan Center for International and Area Studies, Yale University \hfill 2019-21 
 
 **Research Fellow**, Luskin School of Public Affairs, UCLA \hfill 2018 
@@ -50,9 +55,9 @@ xcolor: yes
 
 **Teaching Fellow**, **Research Fellow**, Department of Political Science, UCLA \hfill 2014-17
 
-**Research Fellow**, Center for the Study of Institutions and Development,
+**Research Fellow**, Center for the Study of Institutions and Development, \hfill 2013-14
 
-Higher School of Economics, Moscow \hfill 2013-14
+Higher School of Economics, Moscow 
 
 **Visiting Research Fellow**, Russian & East European Institute, Indiana University  \hfill 2012
 
@@ -120,7 +125,7 @@ High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
 
 # PRESENTATIONS
 
-APSA (2021, 2018, 2016, 2014), MPSA (2018, 2017, 2014), Annual conference of the Society for Political Methodology (2019), European Economic Association Annual Conference (2015), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2017, 2013), Indiana University (2012)
+APSA (2021, 2018, 2016, 2014), MPSA (2018, 2017, 2014), Annual conference of the Society for Political Methodology (2019), European Economic Association Annual Conference (2015), [New York University (2021)](https://www.youtube.com/watch?v=6_3E39SH688), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2021, 2017, 2013), Indiana University (2012)
 
 # TEACHING EXPERIENCE
 
@@ -160,6 +165,7 @@ APSA (2021, 2018, 2016, 2014), MPSA (2018, 2017, 2014), Annual conference of the
 
 \hskip 1.9 cm Python (`TensorFlow`, `keras`, `nltk`, `Selenium`, `sklearn`, `pandas`), SQL, Stata, SPSS, \LaTeX
 
+<!-- 
 # REFERENCES
 
 Prof. Daniel Treisman (chair of the Ph.D. dissertation committee), Department of Political Science, UCLA, 4289 Bunche Hall, Los Angeles, CA 90095, [treisman@polisci.ucla.edu](treisman@polisci.ucla.edu)
@@ -167,6 +173,6 @@ Prof. Daniel Treisman (chair of the Ph.D. dissertation committee), Department of
 Prof. Chad Hazlett (chair of the M.Sc. dissertation committee), Department of Statistics, UCLA, 8105G Mathematical Sciences, Los Angeles, CA 90095, [chazlett@ucla.edu](chazlett@ucla.edu)
 
 Prof. Konstantin Sonin (chair of the M.A. dissertation committee), Harris Public Policy School, University of Chicago, 1155 E60 St, Chicago, IL 60637, [ksonin@uchicago.edu](ksonin@uchicago.edu)
-
+-->
 
 
