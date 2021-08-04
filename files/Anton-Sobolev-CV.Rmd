@@ -17,7 +17,7 @@ jobtitle: Assistant Professor, School of Economic, Political and Policy Sciences
 keywords: R Markdown, academic CV, template
 linkcolor: Brown
 fontawesome: yes
-address:  Cecil H. Green Hall | 800 West Campbell Road, GR 31 | Richardson, TX 75080-3021
+address:  Cecil H. Green Hall | 800 West Campbell Road, GR 3.108 | Richardson, TX 75080-3021
 updated: no
 urlcolor: Brown
 web: www.asobolev.com
@@ -43,7 +43,7 @@ xcolor: yes
 
 # ACADEMIC POSITIONS
 
-**Assistan Professor**, School of Economic, Political and Policy Sciences, \hfill 2021- 
+**Assistant Professor**, School of Economic, Political and Policy Sciences, \hfill 2021- 
  
 The University of Texas at Dallas 
 
