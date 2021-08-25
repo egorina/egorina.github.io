@@ -9,9 +9,9 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
-*UT Dallas**, *** School of Economic, Political and Policy Sciences*** (Fall 2021) 
+**UT Dallas**, *** School of Economic, Political and Policy Sciences*** (Fall 2021) 
 
-  * *PPPE / PSCI 6303.501* BCyber Security Policy  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
+  * *PPPE / PSCI 6303.501* Cyber Security Policy  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
 
 This course introduces students to the public policy aspects of cybersecurity. Students will apply the tools of game theory, statistics, and causal inference to inform policy decision-making. The course is divided into four parts. The first introduces the basic concepts and definitions related to policy, governance, and threats. The second part exposes students to the modern policy analysis toolkit. The third part explores the impact of cyber policies on the private sector (topics include cyberpiracy, Dark Net markets, data breaches, deplatforming, and others). The fourth part of the course focuses on the state actors (topics include, electoral integrity, misinformation, digital repression, and others).
 
