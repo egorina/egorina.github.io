@@ -15,7 +15,9 @@ redirect_from:
 
 This course introduces students to the public policy aspects of cybersecurity. Students will apply the tools of game theory, statistics, and causal inference to inform policy decision-making. The course is divided into four parts. The first introduces the basic concepts and definitions related to policy, governance, and threats. The second part exposes students to the modern policy analysis toolkit. The third part explores the impact of cyber policies on the private sector (topics include cyberpiracy, Dark Net markets, data breaches, deplatforming, and others). The fourth part of the course focuses on the state actors (topics include, electoral integrity, misinformation, digital repression, and others).
 
-Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for Yale students](https://www.datacamp.com/enterprise/big-data-and-political-science-fall-2020)
+Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for Yale students](https://app.datacamp.com/groups/cyber-security-policy/)
+
+## TEACHING EXPERIENCE
 
 **Yale University**, ***Department of Political Science*** (Fall 2020)
 
@@ -23,10 +25,6 @@ Students get free access to short courses on DataCamp to prepare themselves for 
 
 This cross-disciplinary seminar focuses on two broad questions. First: how do politicians use new technologies to influence politics? Second: how do scholars use new technologies to study politics? It uses Russia as a laboratory to explore these questions. The course consists of four parts. It starts with a review of contemporary Russia and pays attention to the quantitative studies of its economy and politics. Next, the course provides a non-technical introduction to Big Data and AI algorithms. Finally, it outlines the applications of the new technologies to the study of Russian politics.
 
-Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for Yale students](https://www.datacamp.com/enterprise/big-data-and-political-science-fall-2020)
-
-
-## TEACHING EXPERIENCE
 
 **Yale University**, ***Department of Political Science*** 
 
