@@ -9,7 +9,7 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
-**UT Dallas**, *** School of Economic, Political and Policy Sciences*** (Fall 2021) 
+**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2021) 
 
   * *PPPE / PSCI 6303.501* Cyber Security Policy  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
 
