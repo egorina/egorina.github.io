@@ -14,7 +14,6 @@ My work has been published in [_American Political Science Review_](https://doi.
 
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
 
-check
 
 <!--
 Prior to my appointment at Yale, I received my Ph.D. in Political Science and M.Sc. in Statistics from University of California, Los Angeles. Before coming to UCLA, I was a research fellow at the Center for the Study of Institutions and Development at Higher School of Economics in Moscow (2013-14).
