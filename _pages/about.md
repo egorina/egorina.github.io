@@ -20,15 +20,6 @@ Prior to my appointment at Yale, I received my Ph.D. in Political Science and M.
 
 Since the results of R&D investments typically emerge years after the elected incumbent leaves her office, why do incumbent politicians pursue such policies? 
 
-My work has been published in, among others, American Political Science Review, Comparative Political Studies, Journal of Ethnic and Migration Studies, Journal of Politics, and Political Psychology. It has been recognized by a number of grants and awards, including from the American Political Science Association and the National Science Foundation. I have also written for popular outlets such as The Washington Post. Prior to my appointment at UNCC, I was a Postdoctoral Associate in the Jackson Institute for Global Affairs at Yale University. I received my joint Ph.D. in Politics and Social Policy from Princeton University.
-
-econ and political science conferences
-APSA MPSA WPSA AEA
-sioe
-
-
-
-Research that succeeds in boosting innovation typically does so only after a significant time lag, meaning that the results of such policy decisions may only become apparent after the government officeholders who made these decisions are up for reelection or have left office entirely. Thus, what motivates an incumbent officeholder to invest in such policies, which generate a return only after the incumbent can no longer derive any personal benefit (i.e., increased chances of reelection)?
 
 
 My [dissertation](dissertation/) explores the information tools employed by modern non-democratic leaders to maintain political control and their citizens’ probable responses to the strategies these tools make possible. It focuses primarily on government hiring of agents to impersonate ordinary citizens and engage online and offline with members of the political opposition. 
