@@ -19,7 +19,7 @@ Students get free access to short courses on DataCamp to prepare themselves for 
 
 
 <center>
-<img src="http://asobolev.com/files/figs/major-cyber-attacks.gif" style="height:809%;">
+<img src="http://asobolev.com/files/figs/major-cyber-attacks.gif" style="height:50%;">
 <figcaption><i>Major Cyber Attacks Across the Globe</i></figcaption>
 </center>
 
