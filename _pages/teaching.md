@@ -18,10 +18,12 @@ This course introduces students to the public policy aspects of cybersecurity. S
 Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](https://app.datacamp.com/groups/cyber-security-policy/)
 
 <div>
-<img src="https://asobolev.com/files/figs/major-cyber-attacks.gif" width="40" height="40">
-<iframe src="/files/figs/major-cyber-attacks.gif" width="50%" </iframe>
+
+<iframe src="/files/figs/major-cyber-attacks.gif" width="100"> </iframe>
 
 </div>
+
+<img src="https://asobolev.com/files/figs/major-cyber-attacks.gif" width="40" height="40">
 
 ## TEACHING EXPERIENCE
 
