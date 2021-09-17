@@ -19,7 +19,7 @@ Students get free access to short courses on DataCamp to prepare themselves for 
 
 <div>
 
-<iframe src="/files/figs/major-cyber-attacks.gif" width="100"> </iframe>
+<iframe src="/files/figs/major-cyber-attacks.gif" width="60%"> </iframe>
 
 </div>
 
