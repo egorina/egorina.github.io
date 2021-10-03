@@ -26,7 +26,7 @@ xcolor: yes
 
 # EDUCATION
 
-**University of California, Los Angeles**, Ph.D. in Political Science  \hfill 2019
+**University of California, Los Angeles**, Ph.D. in Government  \hfill 2019
 <!--
 \hskip 1cm  Topic: "*Dictators in the Spotlight*: What They Do When They Cannot Do Business as Usual"
 
@@ -97,21 +97,21 @@ Higher School of Economics, Moscow
 
 # GRANTS
 
-The Harriman Institute, Columbia University, Research Grant  \hfill 2019 
+The Harriman Institute, Columbia University, Research Grant (18,000$)  \hfill 2019 
 
-Charles Koch Foundation, Arlington, Research Fellowship  \hfill 2019 
+Charles Koch Foundation, Arlington, Research Fellowship (5,000$)  \hfill 2019 
 
-Dissertation Year Fellowship, Los Angeles, UCLA \hfill 2018
+Dissertation Year Fellowship, Los Angeles, UCLA (64,000$) \hfill 2018
 
-The Harriman Institute, Columbia University, Travel Grant  \hfill 2018 
+The Harriman Institute, Columbia University, Travel Grant (4,000$) \hfill 2018 
 
-Institute for Humane Studies, Arlington, Travel Grant  \hfill 2018
+Institute for Humane Studies, Arlington, Travel Grant (5,000$)  \hfill 2018
 
-Higher School of Economics, Moscow, Alumni Academic Fellowship \hfill 2017 
+Higher School of Economics, Moscow, Alumni Academic Fellowship (3,000$) \hfill 2017 
 
-Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2014-18 
+Institute for Humane Studies, Arlington, PhD Fellowship (22,500$)  \hfill 2014-18 
 
-Oxford-Russia Foundation, Research Fellowship \hfill  2007-10 
+Oxford-Russia Foundation, Research Fellowship (6,000$) \hfill  2007-10 
 
 # AWARDS AND DISTINCTIONS
 
@@ -123,11 +123,15 @@ High Distinction for Honors Thesis, Higher School of Economics \hfill  2011
 
 High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
 
-# PRESENTATIONS
+# SELECTED PRESENTATIONS
 
 APSA (2021, 2018, 2016, 2014), MPSA (2018, 2017, 2014), Annual conference of the Society for Political Methodology (2019), European Economic Association Annual Conference (2015), [New York University (2021)](https://www.youtube.com/watch?v=6_3E39SH688), Yale University (2020), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2021, 2017, 2013), Indiana University (2012)
 
 # TEACHING EXPERIENCE
+
+**UT Dallas**, ***School of Economic, Political and Policy Sciences***
+
+\hskip 1cm Cyber Policy (2021)
 
 **Yale University**, ***Department of Political Science***
 
