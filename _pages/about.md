@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Political Economy and Cyber Policy at the University of Texas at Dallas. My research studies questions of politics using text analysis, machine learning, and causal inference. My recent projects focus on mass protest, cybersecurity, and political control in autocracies. More broadly, I study how digital technology shapes behavior. 
+I am an Assistant Professor of Political Economy and Cyber Policy at the University of Texas at Dallas. My research studies questions of politics using text analysis, machine learning, and causal inference. My recent projects focus on mass protest, cybersecurity, and political control in autocracies. More broadly, I study how digital technology shapes political behavior. 
 
 My work has been published in [_American Political Science Review_](https://doi.org/10.1017/S0003055420000295), [_World Politics_](https://doi.org/10.1017/S0043887114000215), [_European Journal of Political Economy_](https://doi.org/10.1016/j.ejpoleco.2019.08.003), [_Post-Soviet Affairs_](https://doi.org/10.1080/1060586X.2013.859434), [_Europe-Asia Studies_](https://doi.org/10.1080/09668136.2013.838055), and [_Problems of Post-Communism_](https://doi.org/10.2753/PPC1075-8216600203). I published in American and Russian printed and electronic media, including [_The Monkey Cage Blog_](https://themonkeycage.org/2012/03/the-complicated-views-of-pro-and-anti-putin-protestors/), the leading Russian business daily [_Vedomosti_](https://www.vedomosti.ru/authors/anton-sobolev/documents), and [_Forbes-Russia_](http://www.forbes.ru/mneniya-column/siloviki/249581-nauchilsya-li-rossiiskii-biznes-zashchishchatsya-ot-silovikov).
 
