@@ -1,4 +1,4 @@
-target	type	state	attack_type	date	url	year_clean
+target	type	state	attack_type_messy	date_messy	url	year_clean
 "
 Madison County Jail, Madison County
 "	Safety	Alabama	"
