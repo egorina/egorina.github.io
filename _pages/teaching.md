@@ -9,6 +9,10 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
+**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2022) 
+
+  * *PPPE  / PSCI 6302* Political Violence and Conflict in Cyberspace  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
+
 In this discussion-based and interdisciplinary seminar, we examine concepts, causes, and consequences of different types of political violence and war, with a special focus on how cyber attacks compare causally and strategically to more conventional types of conflicts. Finally, we will discuss the different policy responses to cyber versus conventional attacks.
 
 Students get free access to DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#PendingDatacampApproval)
