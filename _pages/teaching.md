@@ -9,13 +9,9 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
-**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2021) 
+In this discussion-based and interdisciplinary seminar, we examine concepts, causes, and consequences of different types of political violence and war, with a special focus on how cyber attacks compare causally and strategically to more conventional types of conflicts. Finally, we will discuss the different policy responses to cyber versus conventional attacks.
 
-  * *PPPE / PSCI 6303.501* Cyber Policy  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
-
-This course introduces students to the public policy aspects of cybersecurity. Students will apply the tools of game theory, statistics, and causal inference to inform policy decision-making. The course is divided into four parts. The first introduces the basic concepts and definitions related to policy, governance, and threats. The second part exposes students to the modern policy analysis toolkit. The third part explores the impact of cyber policies on the private sector (topics include cyberpiracy, Dark Net markets, data breaches, deplatforming, and others). The fourth part of the course focuses on the state actors (topics include electoral integrity, misinformation, digital repression, and others).
-
-Students get free access to DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](https://app.datacamp.com/groups/cyber-security-policy/)
+Students get free access to DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#PendingDatacampApproval)
 
 <center>
 <img src="https://asobolev.com/files/figs/major-cyber-attacks.gif" style="height:500%;">
@@ -23,6 +19,13 @@ Students get free access to DataCamp to prepare themselves for the coding part o
 </center>
 
 ## TEACHING EXPERIENCE
+
+**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2021) 
+
+  * *PPPE / PSCI 6303.501* Cyber Policy  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
+
+This course introduces students to the public policy aspects of cybersecurity. Students will apply the tools of game theory, statistics, and causal inference to inform policy decision-making. The course is divided into four parts. The first introduces the basic concepts and definitions related to policy, governance, and threats. The second part exposes students to the modern policy analysis toolkit. The third part explores the impact of cyber policies on the private sector (topics include cyberpiracy, Dark Net markets, data breaches, deplatforming, and others). The fourth part of the course focuses on the state actors (topics include electoral integrity, misinformation, digital repression, and others).
+
 
 **Yale University**, ***Department of Political Science*** (Fall 2020)
 
