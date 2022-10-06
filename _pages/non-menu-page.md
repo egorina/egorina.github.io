@@ -14,11 +14,14 @@ redirect_from:
 
 
 <iframe src="/files/Anton-Sobolev-CV.pdf" width="125%" height="700px"></iframe>
+
+<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
+
 </div>
 
 
 
-<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
+
 
 
 This is a page not in the menu. You can use markdown in this page.
