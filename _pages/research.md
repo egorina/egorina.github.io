@@ -76,6 +76,7 @@ The formation of organizations capable of effectively restricting violence in so
 
 A common opinion among scholars is that civil society in Russia is weak and that this constitutes an obstacle to the development of democracy. The perceived weakness of civil society is attributed to a variety of causes — from the cultural legacies of imperial and Soviet Russia, which have supposedly left Russians atomized and distrustful, to the authoritarian repression of the current regime. As a result, political leaders are today unconstrained — and their policies unaffected — by those who represent particular social interests. We examine the evidence and argue that this view does not offer a full picture of Russian civil society. Russians are not more distrustful than citizens of comparable countries. The evidence does suggest a low level of civic participation after the end of communism—in part because membership in the discredited Communist Party and pro forma membership in official labor unions were not quickly replaced by other involvements — but we also find an apparent increase in civic activity in the past five years, despite the tightening of political controls. At the same time, nongovernmental organizations have improved their capacity to mobilize supporters and volunteers and to raise cash through contributions. We show that in two key regards — the petitioning of officials at all levels of the state and election monitoring— Russian citizens have affected political outcomes and policy decisions, albeit to a limited extent. 
 
+<!--
 <div>
 
 <iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
@@ -84,4 +85,4 @@ A common opinion among scholars is that civil society in Russia is weak and that
 <iframe src="/files/Anton-Sobolev-CV.pdf" width="125%" height="700px"></iframe>
 </div>
 
-
+-->
