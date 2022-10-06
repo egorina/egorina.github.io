@@ -35,3 +35,5 @@ a + b
 <head>
  <link rel="import" href="start.html">
 </head>
+
+<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
