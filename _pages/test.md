@@ -5,6 +5,9 @@ excerpt: "Test"
 author_profile: true
 redirect_from: 
   - /test
+output:
+  html_document:
+    self_contained: false
 ---
 
 ## ARTICLES
