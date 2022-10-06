@@ -10,7 +10,7 @@ redirect_from:
 ## ARTICLES
 
 
-```{r}
+```{r , include=FALSE}
 if (!require("pacman")) install.packages("pacman")
 p_load(data.table, tutorial) # Packages 
 ```
@@ -28,3 +28,4 @@ b <- 3
 a + b
 ```
 
+ test test
