@@ -86,3 +86,5 @@ A common opinion among scholars is that civil society in Russia is weak and that
 </div>
 
 -->
+
+<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
