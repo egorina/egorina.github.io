@@ -29,3 +29,6 @@ a + b
 ```
 
  test test
+<head>
+ <link rel="import" href="start.html">
+</head>
