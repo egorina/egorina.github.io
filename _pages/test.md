@@ -67,3 +67,36 @@ initAddedDCLightExercises();
   </code>
   <div data-type="hint">Use the assignment operator (<code><-</code>) to create the variable <code>a</code>.</div>
 </div>
+
+
+
+Data Repositories:
+
+Kaggle :: cyber
+https://www.kaggle.com/datasets/amritvirsinghx/cyber-crime-statewise
+https://ieee-dataport.org/datasets
+https://osf.io/search/?q=cyber&page=1
+https://dataverse.harvard.edu/
+
+Standalone Datasets
+DCID
+https://drryanmaness.wixsite.com/cyberconflict/cyber-conflict-dataset
+
+Raw Sources:
+https://www.cfr.org/cyber-operations/#Map
+
+  https://www.kaggle.com/datasets/fireballbyedimyrnmom/cyber-incidents-up-to-2020?resource=download
+
+To start:
+scholar.google.com
+
+Other types of data
+
+Google Trends
+https://www.digitalattackmap.com/
+
+https://osf.io/search/?q=cyber&page=1
+
+Kaggle (https://www.kaggle.com/datasets/amritvirsinghx/cyber-crime-statewise)
+Cyber Crime Statewise (INDIA)
+This file contains statewise cyber crime in India from year 2016-2018
