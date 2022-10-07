@@ -38,8 +38,6 @@ a + b
 
 <script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
 
-initAddedDCLightExercises();
-
 <div data-datacamp-exercise data-lang="r">
   <code data-type="pre-exercise-code">
     # This will get executed each time the exercise gets initialized
