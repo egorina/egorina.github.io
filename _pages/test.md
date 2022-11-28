@@ -13,6 +13,30 @@ output:
 ## ARTICLES
 
 
+Test ==Test== Test 
+
+Test
+
+H~2~0
+
+H~~2~~0
+
+Test
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+Test
+
+> This is the first level of quoting.
+>
+> > This is nested blockquote.
+>
+> Back to the first level.
+
+
+<!--
 ```{r , include=FALSE}
 if (!require("pacman")) install.packages("pacman")
 p_load(data.table, tutorial) # Packages 
@@ -21,6 +45,7 @@ p_load(data.table, tutorial) # Packages
 ```{r, include=FALSE}
 tutorial::go_interactive()
 ```
+--> 
 
 By default, `tutorial` will convert all R chunks.
 
