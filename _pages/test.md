@@ -46,7 +46,17 @@ Test
 | -------- | -------- |
 
 
+Foo *bar*
+=========
+
+Foo *bar*
+---------
+
+
+
 <!--
+
+
 ```{r , include=FALSE}
 if (!require("pacman")) install.packages("pacman")
 p_load(data.table, tutorial) # Packages 
