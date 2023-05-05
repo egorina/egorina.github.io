@@ -1,22 +1,59 @@
 ---
+layout: archive
 title: "CV"
 permalink: /cv/
-excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /cv
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
 
-You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf)
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-<html lang="en" style="width:100%; height:300%;">
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-<div>
-
-<iframe src="/files/Anton-Sobolev-CV.pdf" width="125%" height="700px"></iframe>
-</div>
-
-</html>
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
