@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Political Economy and Cyber Policy at the University of Texas at Dallas. My research studies questions of politics using text analysis, machine learning, and causal inference. My recent projects focus on mass protest, cybersecurity, and political control in autocracies. More broadly, I study how digital technology shapes political behavior. 
+I am an Associate Professor in the Public and Nonprofit Management program at the School of Economic, Political and Policy Sciences at the University of Texas at Dallas.  My research includes work on government finance and migration. Through the work on government finance, I seek to understand how state and local governments  manage fiscal risk and navigate organizational, economic and political environments to achieve longer-term fiscal health while also maintaining service-level solvency. More broadly, I study how fiscal institutions and governance arrangements affect public sector financial performance. This work includes papers on public sector retirement systems, municipal annexation, local environmental sustainability transitions, city fiscal reserves, and fiscal health. My past research on migration in post-Soviet economies has inspired my work on the fiscal implications of human migration in other contexts.  At UT Dallas, I teach courses in public sector economics, statistics, research design, financial management for non-profit organizations, public administration theory, and fiscal and budgetary policy.  
 
-My work has been published in [_American Political Science Review_](https://doi.org/10.1017/S0003055420000295), [_World Politics_](https://doi.org/10.1017/S0043887114000215), [_European Journal of Political Economy_](https://doi.org/10.1016/j.ejpoleco.2019.08.003), [_Post-Soviet Affairs_](https://doi.org/10.1080/1060586X.2013.859434), [_Europe-Asia Studies_](https://doi.org/10.1080/09668136.2013.838055), and [_Problems of Post-Communism_](https://doi.org/10.2753/PPC1075-8216600203). I published in American and Russian printed and electronic media, including [_The Monkey Cage Blog_](https://themonkeycage.org/2012/03/the-complicated-views-of-pro-and-anti-putin-protestors/), the leading Russian business daily [_Vedomosti_](https://www.vedomosti.ru/authors/anton-sobolev/documents), and [_Forbes-Russia_](http://www.forbes.ru/mneniya-column/siloviki/249581-nauchilsya-li-rossiiskii-biznes-zashchishchatsya-ot-silovikov).
-
-You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
+You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=tzxgfZ8AAAAJ&hl=en) and my CV [here](cv/).
 
 
 <!--
