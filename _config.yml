@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anton Sobolev"
+title                    : "Eugenia Gorina"
 title_separator          : "-"
-name                     : &name "Anton Sobolev"
+name                     : &name "Eugenia Gorina"
 description              : &description "personal description"
 url                      : https://egorina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
