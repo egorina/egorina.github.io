@@ -9,56 +9,46 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
-**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2022) 
+**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2019) 
 
-  * *PPPE  / PSCI 6302* Political Violence and Conflict in Cyberspace  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
+  * *PA 7306* Foundations of Public Affairs  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
 
-In this discussion-based and interdisciplinary seminar, we examine concepts, causes, and consequences of different types of political violence and war, with a special focus on how cyber attacks compare causally and strategically to more conventional types of conflicts. Finally, we will discuss the different policy responses to cyber versus conventional attacks.
+This course initiates doctoral students in the process of developing an intellectual identity groundedin the field of public administration and provides a venue for students to begin making linkagesbetween their own research interests and the intellectual and practical issues of the field. The coursewill emphasize extensive reading and discussion of some of the most important and influentialliterature in public administration, with a focus on those writers and ideas that have affected thetrajectory of the field. The course constitutes an important step towards preparing students for theirqualifying examination and, further, toward setting a frame for their dissertation topic. To this end,the Foundations course is designed to provide students with a broad theoretically- and historically rooted understanding of the intellectual controversies, paradigmatic research traditions, andcontemporary debates in the field of public administration. 
 
-Students get free access to DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#PendingDatacampApproval)
 
+## TEACHING EXPERIENCE
+
+**UT Dallas**, ***School of Economic, Political and Policy Sciences*** 
+
+  * *EPPS 2302* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
+
+  * *PA 3378* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
+
+  * *EPPS 6374* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
+
+  * *EPPS 2302* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
+
+  * *PLSC-455* Big Data, AI, and Russian Politics (2020)
+
+  * *PLSC-455* Big Data, AI, and Russian Politics (2020)
+
+
+PA 3378 - Public Finance And Economics, Spring 2019 (BA)
+
+PA 6374 - Financial Management For Non-profit Organizations, Spring 2018 (MA)
+
+EPPS 6313 - Introduction To Quantitative Methods, Fall 2019 (MA)
+
+pa 7360 - Advanced Fiscal And Budgetary Policy, Spring 2019 (PhD)
+
+pa 7306 - Foundations Of Public Affairs, Fall 2019 (PhD)
+
+
+<!--
 <center>
 <img src="https://asobolev.com/files/figs/major-cyber-attacks.gif" style="height:500%;">
 <figcaption><i>Major Cyber Attacks Across the Globe</i></figcaption>
 </center>
 
-## TEACHING EXPERIENCE
+-->
 
-**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2021) 
-
-  * *PPPE / PSCI 6303.501* Cyber Policy  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
-
-This course introduces students to the public policy aspects of cybersecurity. Students will apply the tools of game theory, statistics, and causal inference to inform policy decision-making. The course is divided into four parts. The first introduces the basic concepts and definitions related to policy, governance, and threats. The second part exposes students to the modern policy analysis toolkit. The third part explores the impact of cyber policies on the private sector (topics include cyberpiracy, Dark Net markets, data breaches, deplatforming, and others). The fourth part of the course focuses on the state actors (topics include electoral integrity, misinformation, digital repression, and others).
-
-
-**Yale University**, ***Department of Political Science*** (Fall 2020)
-
-  * *PLSC-455* Big Data, AI, and Russian Politics [Class Website](https://yale.instructure.com/courses/60670)
-
-This cross-disciplinary seminar focuses on two broad questions. First: how do politicians use new technologies to influence politics? Second: how do scholars use new technologies to study politics? It uses Russia as a laboratory to explore these questions. The course consists of four parts. It starts with a review of contemporary Russia and pays attention to the quantitative studies of its economy and politics. Next, the course provides a non-technical introduction to Big Data and AI algorithms. Finally, it outlines the applications of the new technologies to the study of Russian politics.
-
-**Yale University**, ***Department of Political Science*** 
-
-  * *PLSC-455* Big Data, AI, and Russian Politics (2020)
-
-**University of California, Los Angeles**, ***Anderson School of Business***
-
-  * Technology Analytics (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/) (2018)
-
-  * Competitive Analytics (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/) (2018)
-
-**University of California, Los Angeles**, ***Department of Political Science***
-
-  * Politics and Government of Post-Communist Russia, with Prof. [Daniel Treisman](https://www.danieltreisman.org/) (2014-17)
-
-  * Diversity, Disagreement, and Democracy, with Prof. [Susanne Lohmann](https://luskin.ucla.edu/person/susanne-lohmann/) (2016)
-
-  * Data Analysis, with Prof. [Erin Hartman](http://www.erinhartman.com/) (2018)
-
-  * Politics and Strategy, with Prof. [Michael Chwe](http://chwe.net/michael/) (2017)
-
-**Higher School of Economics, Moscow**,  ***Department of Political Science***
-
-  * Models of Risk in Politics and Economics (MA, 2012-13)
-
-  * Political Theory, Lecturer (2011-13)
