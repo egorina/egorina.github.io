@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf)
+You can find a PDF version of my CV [here](https://egorina.github.io/files/Evgenia-Gorina-CV.pdf)
 
 
 <html lang="en" style="width:100%; height:300%;">

@@ -1,0 +1,325 @@
+\documentclass[11pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=.75in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Evgenia Gorina -  }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdfauthor={Evgenia Gorina},
+            pdfkeywords={R Markdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=Brown,
+            citecolor=Blue,
+            urlcolor=Brown,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+\begin{document}
+
+
+\centerline{\huge \bf Evgenia Gorina}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Associate Professor, School of Economic,
+Political and Policy Sciences}
+\moveleft.5\hoffset\centerline{Cecil H. Green Hall \textbar{} 800 West
+Campbell Road, GR 3.202 \textbar{} Richardson, TX 75080-3021}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:egorina@utdallas.edu}{\nolinkurl{egorina@utdallas.edu}}} \hspace{1 mm}     \faGlobe \hspace{1 mm} \href{http://www.evgorina.com}{\tt www.evgorina.com}   }
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{academic-positions}{%
+\section{ACADEMIC POSITIONS}\label{academic-positions}}
+
+\textbf{Associate Professor} in Public and Nonprofit Management, School
+of Economic, Political and Policy Sciences, University of Texas at
+Dallas \hfill 2020- \emph{Research areas: government financial
+management, municipal financial condition, form of government, public
+sector retirement systems, migration}
+
+\textbf{Assistant Professor}, School of Economic, Political and Policy
+Sciences, \hfill 2013-20
+
+\hypertarget{education}{%
+\section{EDUCATION}\label{education}}
+
+\textbf{Arizona State University}, Ph.D.~in Public Administration and
+Policy \hfill 2013
+
+\textbf{Nizhny Novgorod State Linguistic University, Nizhny Novgorod},
+M.A.~in Foreign Language Translation (English \& French \hfill 2005
+
+\hypertarget{research}{%
+\section{RESEARCH}\label{research}}
+
+\hypertarget{articles}{%
+\subsection{Articles}\label{articles}}
+
+\href{https://doi.org/10.1017/S0003055420000295}{\textbf{``News and
+Geolocated Social Media Accurately Measure Protest Size Variation''}} in
+\emph{American Political Science Review}, 2020, 114(4), 1343-1351 (with
+Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld)
+
+\href{https://doi.org/10.1016/j.ejpoleco.2019.08.003}{\textbf{``Stability
+of Revolutionary Governments in The Face of Mass Protest''}} in
+\emph{European Journal of Political Economy}, 2019, 60, 2-20 (with
+Dmitry Dagaev and Natalia Lamberova)
+
+\href{http://dx.doi.org/10.1017/S0043887114000215}{\textbf{``Trial by
+Fire: a Natural Disaster's Impact on Support for the Authorities in
+Rural Russia,''}} in \emph{World Politics}, 2014, 66(4), 641-668 (with
+Egor Lazarev, Irina Soboleva, and Boris Sokolov)
+
+\href{http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434}{\textbf{``Means
+of Production VS Means of Coercion: Can Russian Business Limit the
+Violence of Predatory State?,''}} in \emph{Post-Soviet Affairs}, 2014,
+30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
+
+\href{http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055}{\textbf{``Social
+and Economic Policy Trade-Offs in the Russian Regions: Evidence from
+Four Case Studies,''}} in \emph{Europe-Asia Studies}, 2013, 65(10):
+1855-1876 (with Tom Remington, Irina Soboleva, and Mark Urnov)
+
+\href{“Well-Organized\%20Play:\%20Symbolic\%20Politics\%20and\%20the\%20Effect\%20of\%20the\%20Pro-Putin\%20Rallies,”}{\textbf{``Well-Organized
+Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,''}} in
+\emph{Problems of Post-Communism}, 2013, 60(2): 24-39 (with Regina Smyth
+and Irina Soboleva)
+
+\hypertarget{peer-reviewed-book-chapters}{%
+\subsection{Peer-reviewed book
+chapters}\label{peer-reviewed-book-chapters}}
+
+\href{http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13}{\textbf{``Civic
+and Political Activism in Russia''}} in \emph{The New Autocracy:
+Information, Politics, and Policy in Putin's Russia}, 2018, 249-276,
+Brookings Institution Press (with Alexei Zakharov)
+
+\href{https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf}{\textbf{``Defining
+Common Ground: Collective Identity in Russia's Post-Election Protests
+and Rallies''}} in \emph{The Systemic and Non-Systemic Opposition in the
+Russian Federation}, 2015, 51-76, Ashgate Publishing (with Regina Smyth
+and Irina Soboleva)
+
+\hypertarget{research-in-progress}{%
+\subsection{Research in progress}\label{research-in-progress}}
+
+\protect\hyperlink{working}{\textbf{``How Pro-Government ``Trolls''
+Influence Online Conversations in Russia''}}
+
+\protect\hyperlink{working}{\textbf{``How Free Media Can Help an
+Autocrat to Deal with Mass Protests? A Curious Case of Russia''}}
+
+\protect\hyperlink{working}{\textbf{``State-Building from Scratch?
+Transformations of State-Business Relations in Commercial Courts in
+Crimea''}} (with Egor Lazarev and Dmitriy Skougarevskiy)
+
+\protect\hyperlink{working}{\textbf{``How Do Dictators Transform into
+Megalomaniacs?''}} (Jessie Hanson-DeFusco)
+
+\hypertarget{grants}{%
+\section{GRANTS}\label{grants}}
+
+The Harriman Institute, Columbia University, Research Grant (18,000\$)
+\hfill 2019
+
+Charles Koch Foundation, Arlington, Research Fellowship (5,000\$)
+\hfill 2019
+
+Dissertation Year Fellowship, Los Angeles, UCLA (64,000\$) \hfill 2018
+
+The Harriman Institute, Columbia University, Travel Grant (4,000\$)
+\hfill 2018
+
+Institute for Humane Studies, Arlington, Travel Grant (5,000\$)
+\hfill 2018
+
+Higher School of Economics, Moscow, Alumni Academic Fellowship (3,000\$)
+\hfill 2017
+
+Carnegie Corporation of New York, New York, Book Project Grant
+(600,000\$) \hfill 2014-16
+
+Institute for Humane Studies, Arlington, PhD Fellowship (22,500\$)
+\hfill 2014-18
+
+Oxford-Russia Foundation, Research Fellowship (6,000\$) \hfill  2007-10
+
+\hypertarget{awards-and-distinctions}{%
+\section{AWARDS AND DISTINCTIONS}\label{awards-and-distinctions}}
+
+Higher School of Economics Award for Academic Achievements \hfill 2012
+
+``The Best Lecturer of Political Science Department - 2012'' Award
+\hfill 2012
+
+High Distinction for Honors Thesis, Higher School of Economics
+\hfill  2011
+
+High Distinction for Honors Thesis, Higher School of Economics
+\hfill  2009
+
+\hypertarget{selected-presentations}{%
+\section{SELECTED PRESENTATIONS}\label{selected-presentations}}
+
+APSA (2021, 2018, 2016, 2014), MPSA (2022, 2018, 2017, 2014), Annual
+conference of the Society for Political Methodology (2019), European
+Economic Association Annual Conference (2015),
+\href{https://www.youtube.com/watch?v=6_3E39SH688}{New York University
+(2021)}, Yale University (2020), Society for Institutional \&
+Organizational Economics Annual Conference (2013), April International
+Academic Conference On Economic and Social Development (2013, 2012,
+2010, 2011), Moscow Higher School of Economics (2021, 2017, 2013),
+Indiana University (2012)
+
+\hypertarget{teaching-experience}{%
+\section{TEACHING EXPERIENCE}\label{teaching-experience}}
+
+\textbf{UT Dallas}, \textbf{\emph{School of Economic, Political and
+Policy Sciences}}
+
+\hskip 1cm Political Violence and Conflict over Cyberspace (2022F)
+
+\hskip 1cm Capstone in Cybersecurity and Policy (2022S)
+
+\hskip 1cm Cyber Policy (2021F)
+
+\textbf{Yale University}, \textbf{\emph{Department of Political
+Science}}
+
+\hskip 1cm Big Data, AI, and Russian Politics (2020-21)
+
+\textbf{University of California, Los Angeles}, \textbf{\emph{Anderson
+School of Business}}
+
+\hskip 1cm Technology Analytics (MBA), with Prof.~Keith Chen (2018)
+
+\hskip 1cm Competitive Analytics (MSBA), with Prof.~Keith Chen (2018)
+
+\textbf{University of California, Los Angeles}, \textbf{\emph{Department
+of Political Science}}
+
+\hskip 1cm Politics and Government of Post-Communist Russia, with
+Prof.~Daniel Treisman (2014-17)
+
+\hskip 1cm Diversity, Disagreement, and Democracy, with Prof.~Susanne
+Lohmann (2016)
+
+\hskip 1cm Data Analysis, with Prof.~Erin Hartman (2018)
+
+\hskip 1cm Politics and Strategy, with Prof.~Michael Chwe (2017)
+
+\textbf{Higher School of Economics, Moscow}, \textbf{\emph{Department of
+Political Science}}
+
+\hskip 1cm Models of Risk in Politics and Economics (MA, 2012-13)
+
+\hskip 1cm Political Theory (2011-13)
+
+\hypertarget{service}{%
+\section{SERVICE}\label{service}}
+
+\textbf{Reviewer:} American Political Science Review, Comparative
+Political Studies, Economics and Politics, Foreign Policy Analysis, New
+Media and Society, Journal of International Affairs, Problems of
+Post-Communism, Post-Soviet Affairs
+
+\hypertarget{skills}{%
+\section{SKILLS}\label{skills}}
+
+\textbf{Software:} R (\texttt{keras}, \texttt{selenium}, \texttt{rvest},
+\texttt{tm}, \texttt{ggplot2}, \texttt{tidyverse}, \texttt{sp},
+\texttt{raster}),
+
+\hskip 1.9 cm Python (\texttt{TensorFlow}, \texttt{keras},
+\texttt{nltk}, \texttt{Selenium}, \texttt{sklearn}, \texttt{pandas}),
+SQL, Stata, SPSS, \LaTeX
+
+\end{document}
