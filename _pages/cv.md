@@ -16,7 +16,7 @@ You can find a PDF version of my CV [here](https://egorina.github.io/files/Evgen
 
 <div>
 
-<iframe src="/files/Anton-Sobolev-CV.pdf" width="125%" height="700px"></iframe>
+<iframe src="/files/Evgenia-Gorina-CV.pdf" width="125%" height="700px"></iframe>
 </div>
 
 </html>
