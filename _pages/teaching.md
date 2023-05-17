@@ -19,19 +19,19 @@ This course initiates doctoral students in the process of developing an intellec
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences*** 
 
-  * *EPPS 2302* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
+  * ***EPPS 2302*** Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
 
-  * *PA 3378* Public Finance And Economics (BA, 2019)
+  * ***PA 3378*** Public Finance And Economics (BA, 2019)
 
-  * *EPPS 6374* Financial Management For Non-profit Organizations (MA, 2018)
+  * ***EPPS 6374*** Financial Management For Non-profit Organizations (MA, 2018)
 
-  * *EPPS 6313* Introduction To Quantitative Methods (MA, 2019)
+  * ***EPPS 6313*** Introduction To Quantitative Methods (MA, 2019)
 
-  * *EPPS 7360* Advanced Fiscal And Budgetary Policy (PhD, 2019)
+  * ***EPPS 7360*** Advanced Fiscal And Budgetary Policy (PhD, 2019)
 
-  * *EPPS 7306* Foundations Of Public Affairs (BA, 2018)
+  * ***EPPS 7306*** Foundations Of Public Affairs (BA, 2018)
 
-  * *EPPS 2302* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
+  * ***EPPS 2302*** Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
 
 <!--
 <center>
