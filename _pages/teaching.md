@@ -15,34 +15,23 @@ redirect_from:
 
 This course initiates doctoral students in the process of developing an intellectual identity groundedin the field of public administration and provides a venue for students to begin making linkagesbetween their own research interests and the intellectual and practical issues of the field. The coursewill emphasize extensive reading and discussion of some of the most important and influentialliterature in public administration, with a focus on those writers and ideas that have affected thetrajectory of the field. The course constitutes an important step towards preparing students for theirqualifying examination and, further, toward setting a frame for their dissertation topic. To this end,the Foundations course is designed to provide students with a broad theoretically- and historically rooted understanding of the intellectual controversies, paradigmatic research traditions, andcontemporary debates in the field of public administration. 
 
-
 ## TEACHING EXPERIENCE
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences*** 
 
   * *EPPS 2302* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
 
-  * *PA 3378* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
+  * *PA 3378* Public Finance And Economics (BA, 2019)
 
-  * *EPPS 6374* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
+  * *EPPS 6374* Financial Management For Non-profit Organizations (MA, 2018)
+
+  * *EPPS 6313* Introduction To Quantitative Methods (MA, 2019)
+
+  * *EPPS 7360* Advanced Fiscal And Budgetary Policy (PhD, 2019)
+
+  * *EPPS 7306* Foundations Of Public Affairs (BA, 2018)
 
   * *EPPS 2302* Methods Of Quantitative Analysis In Social And Policy Sciences (BA, 2018)
-
-  * *PLSC-455* Big Data, AI, and Russian Politics (2020)
-
-  * *PLSC-455* Big Data, AI, and Russian Politics (2020)
-
-
-PA 3378 - Public Finance And Economics, Spring 2019 (BA)
-
-PA 6374 - Financial Management For Non-profit Organizations, Spring 2018 (MA)
-
-EPPS 6313 - Introduction To Quantitative Methods, Fall 2019 (MA)
-
-pa 7360 - Advanced Fiscal And Budgetary Policy, Spring 2019 (PhD)
-
-pa 7306 - Foundations Of Public Affairs, Fall 2019 (PhD)
-
 
 <!--
 <center>
