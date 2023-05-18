@@ -28,8 +28,8 @@ xcolor: yes
 # ACADEMIC POSITIONS
 
 **Associate Professor** in Public and Nonprofit Management, School of Economic, Political and Policy Sciences,  University of Texas at Dallas  \hfill 2020- 
+<li>*Research areas: government financial management, municipal financial condition, form of government, public sector retirement systems, migration*</li>
 
-*Research areas: government financial management, municipal financial condition, form of government, public sector retirement systems, migration*
 
 **Assistant Professor**, School of Economic, Political and Policy Sciences, \hfill 2013-20 
 
@@ -51,13 +51,12 @@ xcolor: yes
 
 [**"Belonging and Political Participation: Evidence from a Presidential Election in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *Europe-Asia Studies*, 2019, 71(9), 1562-83 (with Victor Agadjanian)
 
+[**"Economic Swings, Political Instability and Migration in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *Europe-Asia Studies*, 2019, 71(9), 1562-83 (with Victor Agadjania
 
 
 
 
-
-Agadjanian Victor and Evgenia Gorina. 2019. Economic Swings, Political Instability and Migration
-in Kyrgyzstan. European Journal of Population 35 (2): 285-304.
+ and Evgenia Gorina. 2019. . European Journal of Population 35 (2): 285-304.
 Gorina Evgenia. 2018. City Revenue Structure and Unfunded Pension Liabilities. State and Local
 Government Review 50 (3): 189-202.
 Wang Jing and Evgenia Gorina. 2018. Fiscal Effects of Municipal Annexation: Evidence from a
