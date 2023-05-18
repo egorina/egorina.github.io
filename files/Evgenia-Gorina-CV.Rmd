@@ -173,16 +173,6 @@ ASA (2017, 2014, 2013), WPSA (2022), WSSA (2019, 2018, 2014, 2012, 2010), Associ
 
 \hskip 1cm PAF 504: Public Affairs Economics (2012, 2011, 2010, MA)
 
-# SERVICE
-
-**Reviewer:** American Political Science Review, Comparative Political Studies, Economics and Politics, Foreign Policy Analysis, New Media and Society, Journal of International Affairs, Problems of Post-Communism, Post-Soviet Affairs
-
-# SKILLS
-
-**Software:** R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),
-
-\hskip 1.9 cm Python (`TensorFlow`, `keras`, `nltk`, `Selenium`, `sklearn`, `pandas`), SQL, Stata, SPSS, \LaTeX
-
 <!-- 
 # REFERENCES
 

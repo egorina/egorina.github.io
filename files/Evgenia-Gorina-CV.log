@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.24)  18 MAY 2023 14:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.24)  18 MAY 2023 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -503,13 +503,13 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 AED: lastpage setting LastPage
 [4] (./Evgenia-Gorina-CV.aux)
 Package rerunfilecheck Info: File `Evgenia-Gorina-CV.out' has not changed.
-(rerunfilecheck)             Checksum: ABC5582787B430AFED16CE288304CF16;1742.
+(rerunfilecheck)             Checksum: D66DAA1BDB366EA518E943CCD7D7D967;1585.
  ) 
 Here is how much of TeX's memory you used:
- 13987 strings out of 478994
- 204021 string characters out of 5858184
- 540433 words of memory out of 5000000
- 30883 multiletter control sequences out of 15000+600000
+ 13979 strings out of 478994
+ 203943 string characters out of 5858184
+ 540372 words of memory out of 5000000
+ 30879 multiletter control sequences out of 15000+600000
  454039 words of font info for 317 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,12n,74p,1206b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -536,10 +536,10 @@ xmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dis
 t/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2021/texmf-dist/font
 s/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on Evgenia-Gorina-CV.pdf (4 pages, 151844 bytes).
+Output written on Evgenia-Gorina-CV.pdf (4 pages, 148388 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 65649 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 65633 words of extra memory for PDF output out of 74296 (max. 10000000)
 
