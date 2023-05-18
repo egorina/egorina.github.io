@@ -47,7 +47,29 @@ xcolor: yes
 
 [**"Pension Reforms and Public Sector Turnover"**](https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz009/5522313?redirectedFrom=fulltext) in *Journal of Public Administration Research and Theory*, 2020, 30(1), 96-112 (with Trang Hoang)
 
-[**"Toward a Theory of Fiscal Slack"**](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbaf.12240) in *Journal of Public Administration Research and Theory*, 2020, 30(1), 96-112 (with Maher Craig and Sungho Park)
+[**"Toward a Theory of Fiscal Slack"**](https://doi.org/10.1111/pbaf.12240) in *Public Budgeting and Finance*, 2020, 39(4), 48-74 (with Maher Craig and Sungho Park)
+
+[**"Belonging and Political Participation: Evidence from a Presidential Election in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *Europe-Asia Studies*, 2019, 71(9), 1562-83 (with Victor Agadjanian)
+
+
+
+
+
+
+Agadjanian Victor and Evgenia Gorina. 2019. Economic Swings, Political Instability and Migration
+in Kyrgyzstan. European Journal of Population 35 (2): 285-304.
+Gorina Evgenia. 2018. City Revenue Structure and Unfunded Pension Liabilities. State and Local
+Government Review 50 (3): 189-202.
+Wang Jing and Evgenia Gorina. 2018. Fiscal Effects of Municipal Annexation: Evidence from a
+Large National Sample of Urban Municipalities. Growth and Change 49 (4): 612-635.
+Gorina Evgenia, Victor Agadjanian, and Natalya Zotova. 2018. Migrant Women’s Economic Success in Russia: Objective Reality and Subjective Assessment, Journal of Ethnic and Migration Studies 44 (9): 1584-1603. copy on PubMed
+Gorina Evgenia, Craig Maher, and Marc Joffe. 2018. Local Fiscal Distress: Measurement and Prediction. Public Budgeting and Finance 38 (1): 72-94.
+Clark Anna* and Evgenia Gorina. 2017. Emergency Financial Management in Small Michigan Cities: Short-term Fix or Fiscal Sustainability. Public Administration Quarterly, 41(3): 532- 568.
+Agadjanian Victor, Evgenia Gorina, and Cecilia Menjivar. 2014. Economic Incorporation, Civic Inclusion, and Social Ties: Plans to Return Home among Central Asian Female Migrants in Moscow, Russia. International Migration Review 48 (3): 577 - 603.
+Chapman Jeffrey and Evgenia Gorina. 2012. Effects of the Form of Government and Property Tax Limits on Local Finance in the Context of Revenue and Expenditure Simultaneity. Public Budgeting and Finance, 32 (4): 19 - 45.
+Chapman Jeffrey and Evgenia Gorina. 2012. Municipal Fiscal Stress and the Use of Tax Increment Financing (TIF). Town Planning Review, 83 (2): 195 - 203.
+
+
 
 ## Research in progress
 
