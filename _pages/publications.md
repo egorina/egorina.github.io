@@ -9,7 +9,7 @@ redirect_from:
 
 ## ARTICLES
 
-[**"Voters, Neighbors, and City Performance in Sustainability Transitions"**](#forthcoming) in *Public Integrity*, 2020, 114(4): 1343-1351 (with Doug Goodman, Romeo Abraham, Brett Cease, and Edward French)
+[**"Voters, Neighbors, and City Performance in Sustainability Transitions"**](https://doi.org/10.1080/10999922.2022.2053439) in *Public Integrity*, 2020, 114(4): 1343-1351 (with Doug Goodman, Romeo Abraham, Brett Cease, and Edward French)
 
 [**"Pension Reforms and Public Sector Turnover"**](https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz009/5522313?redirectedFrom=fulltext) in *Journal of Public Administration Research and Theory*, 2020, 30(1), 96-112 (with Trang Hoang)
 
