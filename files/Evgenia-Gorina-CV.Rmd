@@ -27,9 +27,8 @@ xcolor: yes
 
 # ACADEMIC POSITIONS
 
-**Associate Professor** in Public and Nonprofit Management, School of Economic, Political and Policy Sciences,  University of Texas at Dallas  \hfill 2020- 
-<li>*Research areas: government financial management, municipal financial condition, form of government, public sector retirement systems, migration*</li>
-
+**Associate Professor** in Public and Nonprofit Management, School of Economic, Political and Policy Sciences,  University of Texas at Dallas  \hfill 2020-  
+--*Research areas: government financial management, municipal financial condition, form of government, public sector retirement systems, migration*
 
 **Assistant Professor**, School of Economic, Political and Policy Sciences, \hfill 2013-20 
 
@@ -51,8 +50,12 @@ xcolor: yes
 
 [**"Belonging and Political Participation: Evidence from a Presidential Election in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *Europe-Asia Studies*, 2019, 71(9), 1562-83 (with Victor Agadjanian)
 
-[**"Economic Swings, Political Instability and Migration in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *Europe-Asia Studies*, 2019, 71(9), 1562-83 (with Victor Agadjania
+[**"Economic Swings, Political Instability and Migration in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *European Journal of Popultion*, 2019, 71(9), 1562-83 (with Victor Agadjania)
 
+
+
+
+35, pages285–304 (2019)
 
 
 
