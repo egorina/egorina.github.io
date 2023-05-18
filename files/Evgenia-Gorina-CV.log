@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.24)  18 MAY 2023 10:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.24)  18 MAY 2023 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -498,22 +498,26 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 112.
 [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] 
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+
 AED: lastpage setting LastPage
-[2] (./Evgenia-Gorina-CV.aux)
+[4] (./Evgenia-Gorina-CV.aux)
 Package rerunfilecheck Info: File `Evgenia-Gorina-CV.out' has not changed.
-(rerunfilecheck)             Checksum: 6989893FF79819455F07F33944A7E217;1607.
+(rerunfilecheck)             Checksum: ABC5582787B430AFED16CE288304CF16;1742.
  ) 
 Here is how much of TeX's memory you used:
- 13932 strings out of 478994
- 203512 string characters out of 5858184
- 540392 words of memory out of 5000000
- 30881 multiletter control sequences out of 15000+600000
- 451800 words of font info for 278 fonts, out of 8000000 for 9000
+ 13987 strings out of 478994
+ 204021 string characters out of 5858184
+ 540433 words of memory out of 5000000
+ 30883 multiletter control sequences out of 15000+600000
+ 454039 words of font info for 317 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,11n,74p,1206b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{working} has been referenced but does not exist, 
-replaced by a fixed one
+ 71i,12n,74p,1206b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{oped} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{InProgress} has been referenced but does not exist,
+ replaced by a fixed one
 
 pdfTeX warning (dest): name{link} has been referenced but does not exist, repla
 ced by a fixed one
@@ -525,16 +529,17 @@ pdfTeX warning (dest): name{forthcoming} has been referenced but does not exist
 live/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texli
 ve/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/t
 exlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/loc
-al/texlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texli
-ve/2021/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive
-/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/t
-exmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2021/texmf-d
-ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fon
-ts/type1/urw/palatino/uplri8a.pfb>
-Output written on Evgenia-Gorina-CV.pdf (2 pages, 130760 bytes).
+al/texlive/2021/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2021/te
+xmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dis
+t/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2021/texmf-dist/font
+s/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
+/urw/palatino/uplri8a.pfb>
+Output written on Evgenia-Gorina-CV.pdf (4 pages, 151844 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 65641 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 65649 words of extra memory for PDF output out of 74296 (max. 10000000)
 
