@@ -18,6 +18,7 @@ keywords: R Markdown, academic CV, template
 linkcolor: Brown
 fontawesome: yes
 address:  Cecil H. Green Hall | 800 West Campbell Road, GR 3.202 | Richardson, TX 75080-3021
+phone: 972-883-3515
 updated: no
 urlcolor: Brown
 web: www.evgorina.com
@@ -27,6 +28,7 @@ xcolor: yes
 # ACADEMIC POSITIONS
 
 **Associate Professor** in Public and Nonprofit Management, School of Economic, Political and Policy Sciences,  University of Texas at Dallas  \hfill 2020- 
+
 *Research areas: government financial management, municipal financial condition, form of government, public sector retirement systems, migration*
 
 **Assistant Professor**, School of Economic, Political and Policy Sciences, \hfill 2013-20 
@@ -35,69 +37,27 @@ xcolor: yes
 
 **Arizona State University**, Ph.D. in Public Administration and Policy  \hfill 2013
 
-**Nizhny Novgorod State Linguistic University, Nizhny Novgorod**, M.A. in Foreign Language Translation (English & French  \hfill 2005
+**Dobrolyubov State Linguistic University** (Nizhny Novgorod), M.A. in Foreign Language Translation (English & French)  \hfill 2005
 
-# RESEARCH
+# PUBLICATIONS
 
 ## Articles
 
-[**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351 (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld)
+[**"Voters, Neighbors, and City Performance in Sustainability Transitions"**](#forthcoming) in *Public Integrity*, 2020, 114(4), 1343-1351 (with Doug Goodman, Romeo Abraham, Brett Cease, and Edward French)
 
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20 (with Dmitry Dagaev and Natalia Lamberova)
+[**"Pension Reforms and Public Sector Turnover"**](https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz009/5522313?redirectedFrom=fulltext) in *Journal of Public Administration Research and Theory*, 2020, 30(1), 96-112 (with Trang Hoang)
 
-[**"Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,"**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
-
-[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
-
-[**"Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies,"**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva, and Mark Urnov) 
-
-[**"Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,"**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
-
-## Peer-reviewed book chapters
-
-[**"Civic and Political Activism in Russia"**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
-
-[**"Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies"**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
+[**"Toward a Theory of Fiscal Slack"**](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbaf.12240) in *Journal of Public Administration Research and Theory*, 2020, 30(1), 96-112 (with Maher Craig and Sungho Park)
 
 ## Research in progress
 
 [**"How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#working)
 
-[**"How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia"**](#working)
-
-[**"State-Building from Scratch? Transformations of State-Business Relations in Commercial Courts in Crimea"**](#working) (with Egor Lazarev and Dmitriy Skougarevskiy)
-
-[**"How Do Dictators Transform into Megalomaniacs?"**](#working) (Jessie Hanson-DeFusco)
-
 # GRANTS
 
 The Harriman Institute, Columbia University, Research Grant (18,000$)  \hfill 2019 
 
-Charles Koch Foundation, Arlington, Research Fellowship (5,000$)  \hfill 2019 
-
-Dissertation Year Fellowship, Los Angeles, UCLA (64,000$) \hfill 2018
-
-The Harriman Institute, Columbia University, Travel Grant (4,000$) \hfill 2018 
-
-Institute for Humane Studies, Arlington, Travel Grant (5,000$)  \hfill 2018
-
-Higher School of Economics, Moscow, Alumni Academic Fellowship (3,000$) \hfill 2017
-
-Carnegie Corporation of New York, New York, Book Project Grant (600,000$) \hfill 2014-16
-
-Institute for Humane Studies, Arlington, PhD Fellowship (22,500$)  \hfill 2014-18 
-
-Oxford-Russia Foundation, Research Fellowship (6,000$) \hfill  2007-10 
-
 # AWARDS AND DISTINCTIONS
-
-Higher School of Economics Award for Academic Achievements \hfill 2012 
-
-“The Best Lecturer of Political Science Department - 2012” Award \hfill 2012 
-
-High Distinction for Honors Thesis, Higher School of Economics \hfill  2011 
-
-High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
 
 # SELECTED PRESENTATIONS
 
@@ -109,35 +69,7 @@ APSA (2021, 2018, 2016, 2014), MPSA (2022, 2018, 2017, 2014), Annual conference 
 
 \hskip 1cm  Political Violence and Conflict over Cyberspace (2022F)
 
-\hskip 1cm  Capstone in Cybersecurity and Policy (2022S)
-
-\hskip 1cm Cyber Policy (2021F)
-
 **Yale University**, ***Department of Political Science***
-
-\hskip 1cm Big Data, AI, and Russian Politics (2020-21)
-
-**University of California, Los Angeles**, ***Anderson School of Business***
-
-\hskip 1cm Technology Analytics (MBA), with Prof. Keith Chen (2018)
-
-\hskip 1cm Competitive Analytics (MSBA), with Prof. Keith Chen (2018)
-
-**University of California, Los Angeles**, ***Department of Political Science***
-
-\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman (2014-17)
-
-\hskip 1cm Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann (2016)
-
-\hskip 1cm Data Analysis, with Prof. Erin Hartman (2018)
-
-\hskip 1cm Politics and Strategy, with Prof. Michael Chwe (2017)
-
-**Higher School of Economics, Moscow**, ***Department of Political Science***
-
-\hskip 1cm Models of Risk in Politics and Economics (MA, 2012-13)
-
-\hskip 1cm Political Theory (2011-13)
 
 # SERVICE
 
