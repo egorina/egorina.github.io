@@ -26,6 +26,13 @@ redirect_from:
 
 In a non-democracy, the regime can censor and manipulate social media for its own goals. This paper unpacks the technology of the Russian government propaganda and manipulation of online discussions, and establishes the causal effect of government interventions on the online behavior of social media users. Using a novel database on the activity of the state-sponsored online propagandists masquerading as ordinary citizens, the so-called “trolls”, I estimate the impact of troll interventions in online conversation by combining matching techniques with the difference-in-differences approach. I find that the Russian troll activity was significantly more successful in stopping and diverting online discussions away from politically sensitive topics than in promoting a pro-government agenda. To the best of my knowledge, this is the first study that documents the causal effect of trolls' interventions on the online behavior of social media users. 
 
+<center>
+<img src="https://egorina.github.io/files/figs/fig-local-turnover.gif" style="height:500%;">
+<figcaption><i>Major Cyber Attacks Across the Globe</i></figcaption>
+</center>
+
+
+
 ## Works in Progress
 
 [**“Black Markets, Red Square: How the Kremlin Utilizes Darknet for Its Cyberpolicy”**](#InProgress) 
@@ -46,7 +53,7 @@ Social media platforms, national governments, and academics develop sophisticate
 
 A widespread belief holds that a free press threatens non-democratic governments since it can reveal official incompetence or misconduct and help opposition to organize. I argue that, under certain conditions, dictators can use free media to credibly communicate messages that discourage protest and thus strengthen the regime. I exploit the uneven geographical reach of broadcasts by the liberal Russian radio station Echo of Moscow to document this effect. In cities that received Echo of Moscow broadcasts, anti-Putin protesters were discouraged by the station’s credible accounts of a large pro-government demonstration in the capital, leading to lower participation in opposition rallies elsewhere. The finding helps explain the puzzle that various otherwise repressive authoritarian regimes permit some free press to operate. 
 
-## Publications 
+## Publications
 
 [**“News and Social Media Accurately Measure Protest Size”**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld)
 
@@ -86,5 +93,3 @@ A common opinion among scholars is that civil society in Russia is weak and that
 </div>
 
 -->
-
-<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
