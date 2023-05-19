@@ -28,7 +28,7 @@ In a non-democracy, the regime can censor and manipulate social media for its ow
 
 <center>
 <img src="https://egorina.github.io/files/figs/fig-local-turnover.gif" style="height:500%;">
-<figcaption><i>Major Cyber Attacks Across the Globe</i></figcaption>
+<figcaption><i></i></figcaption>
 </center>
 
 
