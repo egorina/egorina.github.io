@@ -31,9 +31,7 @@ Over the past decade, many states have reformed their retirement systems by redu
 <figcaption><i></i></figcaption>
 </center>
 
-
-
-## Works in Progress
+## PREVIOUSLY
 
 [**“Black Markets, Red Square: How the Kremlin Utilizes Darknet for Its Cyberpolicy”**](#InProgress) 
 
