@@ -28,10 +28,12 @@ In 2006, Alaska enacted a radical retirement system reform by discontinuing its 
 
 
 <center>
-<img src="https://egorina.github.io/files/figs/fig-separation.gif" style="height:500%;">
+<img src="https://egorina.github.io/files/figs/fig-separation.gif" style="height:100%;">
 <figcaption><i></i></figcaption>
 </center>
 
+
+![](files/figs/fig-separation.gif)
 
 ## PREVIOUSLY
 
