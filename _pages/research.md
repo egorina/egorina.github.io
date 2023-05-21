@@ -34,9 +34,9 @@ In 2006, Alaska enacted a radical retirement system reform by discontinuing its 
 Over the past decade, many states have reformed their retirement systems by reducing benefit generosity, tightening retirement provisions, introducing non-defined-benefit (DB) plan options and even replacing DB plans with defined-contribution plans. Many of these reforms have affected post-employment benefits that public workers will receive when they retire. Have these reforms also affected the attractiveness of public sector employment? To answer this question, we use state-level data from 2002 to 2015 and examine the relationship between state pension reforms and public employee turnover following the reforms. We find that employee responsiveness to the reforms was tangible and that it differed by reform type and worker education. These results are important because the design of public retirement benefits will continue to influence the ability of the public sector to recruit and retain high-quality workforce.
 ![](https://egorina.github.io/files/figs/fig-local-turnover.gif)
 
-~~~
+<!--
 <center>
 <img src="https://egorina.github.io/files/figs/fig-separation.gif" style="height:100%;">
 <figcaption><i></i></figcaption>
 </center>
-~~~
+-->
