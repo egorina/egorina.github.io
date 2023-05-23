@@ -44,13 +44,17 @@ Over the past decade, many states have reformed their retirement systems by redu
 test
 
 <center>
-<img src="https://egorina.github.io/files/figs/fig-separation.gif" style="height:10%;">
+<img src="https://egorina.github.io/files/figs/fig-separation.gif" style="height:10%">
 <figcaption><i>Title</i></figcaption>
 </center>
 
 
 Test 2
 <center>
-<img src= src="https://egorina.github.io/files/figs/fig-separation.gif" width = "50%">
+<img src="https://egorina.github.io/files/figs/fig-separation.gif" width = "50%">
 </center>
 
+Test 2
+<center>
+<img src= src="https://egorina.github.io/files/figs/fig-separation.gif" style="width:60%">
+</center>
