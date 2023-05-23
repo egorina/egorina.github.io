@@ -31,8 +31,6 @@ In 2006, Alaska enacted a radical retirement system reform by discontinuing its 
 <figcaption><i>Title</i></figcaption>
 </center>
 
-![](https://egorina.github.io/files/figs/fig-separation.gif)
-
 ## PREVIOUSLY
 
 [**“Pension Reforms and Public Sector Turnover”**](https://doi.org/10.1093/jopart/muz009)
@@ -41,6 +39,7 @@ Over the past decade, many states have reformed their retirement systems by redu
 
 <!--
 ![](https://egorina.github.io/files/figs/fig-local-turnover.gif)
+![](https://egorina.github.io/files/figs/fig-separation.gif)
 
 <center>
 <img src="https://egorina.github.io/files/figs/fig-separation.gif" style="height:100%;">
