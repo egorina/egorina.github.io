@@ -15,12 +15,12 @@ fontsize: 11pt
 geometry: margin=.75in
 jobtitle: Associate Professor, School of Economic, Political and Policy Sciences
 keywords: R Markdown, academic CV, template
-linkcolor: Brown
+linkcolor: Blue
 fontawesome: yes
 address:  Cecil H. Green Hall | 800 West Campbell Road, GR 3.202 | Richardson, TX 75080-3021
 phone: 972-883-3515
 updated: no
-urlcolor: Brown
+urlcolor: Blue
 web: www.evgorina.com
 xcolor: yes
 ---
@@ -52,7 +52,7 @@ government financial management, municipal financial condition, form of governme
 
 [**"Belonging and Political Participation: Evidence from a Presidential Election in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *Europe-Asia Studies*, 2019, 71(9), 1562-83 (with Victor Agadjanian)
 
-[**"Economic Swings, Political Instability and Migration in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *European Journal of Population*, 2019, 71(9): 1562-83 (with Victor Agadjania)
+[**"Economic Swings, Political Instability and Migration in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *European Journal of Population*, 2019, 71(9): 1562-83 (with Victor Agadjanian)
 
 [**"City Revenue Structure and Unfunded Pension Liabilities"**](https://doi.org/10.1177/0160323X18817806) in *State and Local Government Review*, 2018, 50(3): 189-202
 
