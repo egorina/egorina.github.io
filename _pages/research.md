@@ -41,8 +41,16 @@ Over the past decade, many states have reformed their retirement systems by redu
 </center>
 -->
 
-Test
+test
+
 <center>
-<img src="img src="https://egorina.github.io/files/figs/fig-separation.gif" width = "50%">
+<img src="https://egorina.github.io/files/figs/fig-separation.gif" style="height:10%;">
+<figcaption><i>Title</i></figcaption>
+</center>
+
+
+Test 2
+<center>
+<img src= src="https://egorina.github.io/files/figs/fig-separation.gif" width = "50%">
 </center>
 
