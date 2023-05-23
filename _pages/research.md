@@ -44,4 +44,5 @@ Over the past decade, many states have reformed their retirement systems by redu
 Test
 <center>
 <img src="img src="https://egorina.github.io/files/figs/fig-separation.gif" width = "50%">
-,</center>.
+</center>
+
