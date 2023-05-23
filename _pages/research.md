@@ -25,6 +25,12 @@ redirect_from:
 [**“Effects of a Defined Contribution Retirement Plan on Teacher Attrition in Alaska,”**](https://appam.confex.com/appam/2020/meetingapp.cgi/Paper/38090) (with Jen Sidorova, Anil Niraula, and Marc Joffe) [*Link*](https://appam.confex.com/appam/2020/meetingapp.cgi/Paper/38090)
 
 In 2006, Alaska enacted a radical retirement system reform by discontinuing its defined-benefit (DB) pension plan and creating a 401(k)-style defined contribution (DC) plan for all new hires. The reform produced a change in accrual patterns, mandated a fixed contribution rate for the employer, increased retirement benefit portability, and transferred the investment risk to the employee. Using individual-level data for all Alaska teachers in the Teacher Retirement System from 2005 to 2017, we assess how this reform affected teacher mobility out of K-12 employment and the resulting composition of the teacher workforce. We observe few changes in teacher characteristics while documenting higher odds of separation among teachers in the DC plan relative to their DB counterparts.
+
+<center>
+<img src="https://egorina.github.io/files/figs/fig-separation.gif" width = "80%">
+<figcaption><i>Title</i></figcaption>
+</center>
+
 ![](https://egorina.github.io/files/figs/fig-separation.gif)
 
 ## PREVIOUSLY
@@ -41,11 +47,6 @@ Over the past decade, many states have reformed their retirement systems by redu
 <figcaption><i></i></figcaption>
 </center>
 -->
-
-<center>
-<img src="https://egorina.github.io/files/figs/fig-separation.gif" width = "80%">
-<figcaption><i>Title</i></figcaption>
-</center>
 
 
 <center>
