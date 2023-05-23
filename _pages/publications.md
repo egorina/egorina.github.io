@@ -17,7 +17,7 @@ redirect_from:
 
 [**"Belonging and Political Participation: Evidence from a Presidential Election in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *Europe-Asia Studies*, 2019, 71(9), 1562-83 (with Victor Agadjanian)
 
-[**"Economic Swings, Political Instability and Migration in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *European Journal of Population*, 2019, 71(9): 1562-83 (with Victor Agadjania)
+[**"Economic Swings, Political Instability and Migration in Kyrgyzstan"**](https://doi.org/10.1080/09668136.2019.1665168) in *European Journal of Population*, 2019, 71(9): 1562-83 (with Victor Agadjanian)
 
 [**"City Revenue Structure and Unfunded Pension Liabilities"**](https://doi.org/10.1177/0160323X18817806) in *State and Local Government Review*, 2018, 50(3): 189-202
 * _Media Coverage:_  [_Governing.Com_](https://www.governing.com/archive/gov-city-revenue-structure-explain-unfunded-pensions.html) ✓ [_Governing.Com_](https://www.governing.com/archive/gov-city-revenue-structure-explain-unfunded-pensions.html)
