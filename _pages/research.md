@@ -40,15 +40,4 @@ Over the past decade, many states have reformed their retirement systems by redu
 <!--
 ![](https://egorina.github.io/files/figs/fig-local-turnover.gif)
 ![](https://egorina.github.io/files/figs/fig-separation.gif)
-
-<center>
-<img src="https://egorina.github.io/files/figs/fig-separation.gif" style="height:100%;">
-<figcaption><i></i></figcaption>
-</center>
 -->
-
-
-<center>
-<img src="https://egorina.github.io/files/figs/fig-separation.gif" width = "80%">
-<figcaption><i>Title</i></figcaption>
-</center>
